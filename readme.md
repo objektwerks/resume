@@ -79,8 +79,8 @@ Javawerks
 
 Open Source
 -----------
-1. Homeschool ( github.com/objektwerks/homeschool )
-2. Poolmate ( github.com/objektwerks/poolmate )
+1. Homeschool ( https://github.com/objektwerks/homeschool )
+2. Poolmate ( https://github.com/objektwerks/poolmate )
 3. Quartz Scheduler DailyCalendar ( https://tinyurl.com/y7frm74e )
 
 Training
