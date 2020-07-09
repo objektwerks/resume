@@ -114,4 +114,4 @@ Laptop
 
 Environment
 -----------
->See github.com/objektwerks/scala for details.
+>See https://github.com/objektwerks/scala for details.
