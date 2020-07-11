@@ -8,7 +8,7 @@ Mike Funk
 Objektwerks
 -----------
 
-2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Designing and building 1) progressive web and desktop apps; and 2) medical chart components. Built POCs with Http4s, Cats, Doobie and Circe. [Scala 2.13, ScalaJS 1.1, ScalaFX 14-R19, Laminar, Swing, JFreeChart, Akka-Http 10, Akka 2.6, Quill 3.5, PostgreSQL 11, uPickle 1.1, Sbt, Git, AWS]
+2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Designing and building 1) web and desktop apps; and 2) medical chart components. Built POCs with Http4s, Cats, Doobie and Circe. [Scala 2.13, ScalaJS 1.1, ScalaFX 14-R19, Laminar, Swing, JFreeChart, Akka-Http 10, Akka 2.6, Quill 3.5, PostgreSQL 11, uPickle 1.1, Sbt, Git, AWS]
 
 * NYISO, Albany, NY | Remote Consultant | Scala Engineer ~ Built proprietary workflow-directed Spark batch jobs sourced, joined, transformed and sinked from and to multiple Delta Lake date partitioned parquet tables. [Scala 2.12, Spark 2.4, Delta Lake 0.5, Cats 2.1, AWS-S3, Sbt, Git]
 
