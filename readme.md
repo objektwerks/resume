@@ -10,23 +10,23 @@ Objektwerks
 
 2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Designing and building 1) web and desktop apps; and 2) medical chart components. Built POCs with Http4s, Cats, Doobie and Circe. [Scala 2.13, ScalaJS 1.1, ScalaFX 14-R19, Laminar, Swing, JFreeChart, Akka-Http 10, Akka 2.6, Quill 3.5, PostgreSQL 11, uPickle 1.1, Sbt, Git, AWS]
 
-* NYISO, Albany, NY | Remote Consultant | Scala Engineer ~ Built proprietary workflow-directed Spark batch jobs sourced, joined, transformed and sinked from and to multiple Delta Lake date partitioned parquet tables. [Scala 2.12, Spark 2.4, Delta Lake 0.5, Cats 2.1, AWS-S3, Sbt, Git]
+1. NYISO, Albany, NY | Remote Consultant | Scala Engineer ~ Built proprietary workflow-directed Spark batch jobs sourced, joined, transformed and sinked from and to multiple Delta Lake date partitioned parquet tables. [Scala 2.12, Spark 2.4, Delta Lake 0.5, Cats 2.1, AWS-S3, Sbt, Git]
 
-* Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-MapR streaming job; BlackBaud rest service; Cerner rest service; and multiple Spark-Hive ETL apps. [Scala 2.12, Spark 2.4, Hive 3, Akka-Http 10, ScalikeJdbc 3.4, uPickle 1.0, Sbt, Git, Azure]
+2. Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-MapR streaming job; BlackBaud rest service; Cerner rest service; and multiple Spark-Hive ETL apps. [Scala 2.12, Spark 2.4, Hive 3, Akka-Http 10, ScalikeJdbc 3.4, uPickle 1.0, Sbt, Git, Azure]
 
-* Florida Blue, Jacksonville, FL | Consultant | Scala Engineer ~ Designed and built HBase-Rules-DB2 Spark pipeline on dataset of HBase row keys scanned pre-Spark session.  HBase client, via distributed dataset foreach, gets Json by row key. Json is parsed into Scala and update rules applied to DB2 tables. [Scala 2.11, Spark 2.3, ScalikeJdbc, PlayJson, Sbt, Gradle, GitLab]
+3. Florida Blue, Jacksonville, FL | Consultant | Scala Engineer ~ Designed and built HBase-Rules-DB2 Spark pipeline on dataset of HBase row keys scanned pre-Spark session.  HBase client, via distributed dataset foreach, gets Json by row key. Json is parsed into Scala and update rules applied to DB2 tables. [Scala 2.11, Spark 2.3, ScalikeJdbc, PlayJson, Sbt, Gradle, GitLab]
 
-* Starbucks, Seattle, WA | Consultant | Scala Engineer ~ Designed and built customer order history event-driven pipelines, defined by web service sources, event flows and web service sinks. Built custom Akka-Http directives and Scala-Xml bindings. [Scala 2.12, Azure EventHub, Circe 0.8, Cats 1.0, Cassandra 3.5, Sbt, Git]
+4. Starbucks, Seattle, WA | Consultant | Scala Engineer ~ Designed and built customer order history event-driven pipelines, defined by web service sources, event flows and web service sinks. Built custom Akka-Http directives and Scala-Xml bindings. [Scala 2.12, Azure EventHub, Circe 0.8, Cats 1.0, Cassandra 3.5, Sbt, Git]
 
-* Bottle Rocket, Addison, TX | Consultant | Scala Engineer ~ Designed and built Mongodb-Csv-Sftp-Smtp integration app for national fast-food chain. Closed multiple Jira tickets. [Scala 2.11, ReactiveMongo, Spray, Sbt, Git]
+5. Bottle Rocket, Addison, TX | Consultant | Scala Engineer ~ Designed and built Mongodb-Csv-Sftp-Smtp integration app for national fast-food chain. Closed multiple Jira tickets. [Scala 2.11, ReactiveMongo, Spray, Sbt, Git]
 
-* HERE, Chicago, IL | Consultant | Scala Engineer ~ Designed and built Akka cluster driven by RabbitMq and dynamic cluster-aware master-worker actor pairs that validate map data consumed from an AWS rest service. Built map data store change listener; RabbitMq connector; and Akka-Http and Akka-Streams queue routers. [Scala 2.11, PlayJSON, Sbt, Git]
+6. HERE, Chicago, IL | Consultant | Scala Engineer ~ Designed and built Akka cluster driven by RabbitMq and dynamic cluster-aware master-worker actor pairs that validate map data consumed from an AWS rest service. Built map data store change listener; RabbitMq connector; and Akka-Http and Akka-Streams queue routers. [Scala 2.11, PlayJSON, Sbt, Git]
 
-* Adjoy, Tampa, FL | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Cassandra prototypes. [Scala 2.11, Sbt, Git]
+7. Adjoy, Tampa, FL | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Cassandra prototypes. [Scala 2.11, Sbt, Git]
 
-* MetiStream, Washington, DC | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Cassandra ScalaFX simulator. [Scala 2.11, Sbt, Git]
+8. MetiStream, Washington, DC | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Cassandra ScalaFX simulator. [Scala 2.11, Sbt, Git]
 
-* Time Warner, Denver, CO | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Hdfs streaming prototype. [Scala 2.11, Sbt, Git]
+9. Time Warner, Denver, CO | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Hdfs streaming prototype. [Scala 2.11, Sbt, Git]
 
 Javawerks
 ---------
