@@ -79,7 +79,7 @@ Javawerks
 
 Open Source
 -----------
-1. Medcharts ( https://github.com/objektwerks/medcharts )
+1. Healthcharts ( https://github.com/objektwerks/healthcharts )
 2. Homeschool ( https://github.com/objektwerks/homeschool )
 3. Poolmate ( https://github.com/objektwerks/poolmate )
 4. Quartz Scheduler DailyCalendar ( https://tinyurl.com/y7frm74e )
