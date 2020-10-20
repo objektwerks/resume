@@ -8,7 +8,7 @@ Mike Funk
 Objektwerks
 -----------
 
-2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Design and build actor, rest, web and desktop apps. Built POCs with Http4s, Cats, Doobie and Circe. ***Currently*** building open source health charts app. [Scala 2.13, ScalaJS 1.1, ScalaFX 14-R19, Laminar, Swing, JFreeChart, Akka-Http 10, Akka 2.6, Quill 3.5, PostgreSQL 12, uPickle 1.1, Sbt, Git]
+2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Design and build Akka, Akka-Http, Spark, ScalaJs, ScalaFX and Swing apps. [Scala, Spark, ScalaJS, ScalaFX, Swing, Laminar, JFreeChart, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Sbt, Git]
 
 1. Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.11/2, Spark 2.4, Akka-Http 10, uPickle 1.0, Sbt, Git]
 
