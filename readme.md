@@ -45,13 +45,13 @@ Javawerks
 
 1. Mad Mobile, FL | Startup | Java Engineer ~ Designed and built single page web app and NodeJs-websocket server, allowing for graphical selection of Html5 elements and construction of Css3 selectors, persisted in MongoDB as named queries, executable by remote mobile web clients for dynamic UI model-based rendering. Rebuilt with Java, JavaFX and Spring Rest due to browser constraints and JS performance and memory leak issues. [Java 7, JPA, Hibernate, H2, jQuery, Jsdom, Socket.io, Maven, Git]
 
-2. Catalina Marketing, FL | Consultant | Java Engineer ~ Co-architected distributed hierarchical customer ID analytics solution using Pentaho and JAX-WS web services, targeting multiple enterprise data sources and sinks. Built Hadoop prototype. [Java 6, Tomcat, Oracle, Spring, JPA, Hibernate, Axis2, Jibix, Maven, Jenkins, SVN]
+2. Catalina Marketing, FL | Consultant | Java Engineer ~ Co-architected distributed hierarchical customer ID analytics solution using Pentaho and JAX-WS web services, targeting multiple enterprise data sources and sinks. Designed and built Hadoop prototype. [Java 6, Tomcat, Oracle, Spring, JPA, Hibernate, Axis2, Jibix, Maven, Jenkins, SVN]
 
-3. Disney World, FL | Consultant | Java Engineer ~ Implemented enhancements to J2EE room availability and inventory apps. Built GWT inventory analysis client. [Java 5, JBoss, Oracle, Spring, JPA, Hibernate, RichFaces, Struts, Maven, Clearcase]
+3. Disney World, FL | Consultant | Java Engineer ~ Implemented enhancements to J2EE room availability and inventory apps. Designed and built GWT inventory analysis client. [Java 5, JBoss, Oracle, Spring, JPA, Hibernate, RichFaces, Struts, Maven, Clearcase]
 
 4. NDR, FL | Consultant | Java Engineer ~ Designed and built Swing-Spring DI Historical Stock Screener client, composed of financial criteria, interactive models, charts and tables, Spring-Hibernate generic entity manager, JPA entities and Spring HttpInvoker services. Designed and built daily Russell Index service with Spring Batch, Spring-Hibernate generic entity manager, JPA entities and JMX attributes. [Java 6, Tomcat, SwingX, JFreeChart, POI, Ehcache, Maven, Nexus, Hudson, SVN]
 
-5. IHG, GA | Consultant | Java Engineer ~ Built Spring-Hibernate generic entity manager, JPA/JAXB entities, MDPs, generic JAXB marshaller, pooled XSD validator/XSLT transformer, POX/JAX-WS/JMS services, JMX beans/aspects, JMS queue transferer and URI archiver. Built ServiceMix, OSGi/SpringDM and Spring Integration prototypes. [Java 6, Groovy, Resin, Oracle, MQ, ActiveMQ, CXF, Quartz, Maven, Hudson, SVN, Scrum]
+5. IHG, GA | Consultant | Java Engineer ~ Designed and built Spring-Hibernate generic entity manager, JPA/JAXB entities, MDPs, generic JAXB marshaller, pooled XSD validator/XSLT transformer, POX/JAX-WS/JMS services, JMX beans/aspects, JMS queue transferer and URI archiver. Designed and built ServiceMix, OSGi/SpringDM and Spring Integration prototypes. [Java 6, Groovy, Resin, Oracle, MQ, ActiveMQ, CXF, Quartz, Maven, Hudson, SVN, Scrum]
 
 6. Disney World, FL | Consultant | Java Engineer ~ Designed and built Spring-JPA generic entity manager and JPA entities for J2EE reservation app. Designed and built inventory adjustment components, JAX-WS services, MDPs, JMX beans, JIBIX bindings, AOP retry strategies and auditors. [Java 5, JBoss, Oracle, Hibernate, Drools, MQ, CXF, Quartz, RichFaces, Maven, Scrum]
 
@@ -59,9 +59,9 @@ Javawerks
 
 8. FPL, FL, Consultant, Java Engineer : Designed and built Swing components and features for energy trading app. [Java 6, Tomcat, Oracle, SwingX, SVN]
 
-9. CDC, GA | Consultant | Java Engineer ~ Designed and built Gigaspaces master-worker space composed of Spring beans that build composite reports via executors, callables and futures. Built Terracotta prototype. [Java 5, Oracle, Maven, SVN]
+9. CDC, GA | Consultant | Java Engineer ~ Designed and built Gigaspaces master-worker space composed of Spring beans that build composite reports via executors, callables and futures. Designed and built Terracotta prototype. [Java 5, Oracle, Maven, SVN]
 
-10. KnowledgeStorm, GA | Consultant | Java Engineer ~ Designed and built J2EE app for lifecycle-management of Nutch-Lucene indexes across JBoss cluster via Swing-Spring DI client. AOP injected custom Nutch features. Built Nutch sentence-fragment summarizer. Added compression/caching to Axis web service, yielding sub-second response times. [Java 5, Oracle, Hibernate, Maven, SVN, Scrum]
+10. KnowledgeStorm, GA | Consultant | Java Engineer ~ Designed and built J2EE app for lifecycle-management of Nutch-Lucene indexes across JBoss cluster via Swing-Spring DI client. AOP injected custom Nutch features. Designed and built Nutch sentence-fragment summarizer. Added compression/caching to Axis web service, yielding sub-second response times. [Java 5, Oracle, Hibernate, Maven, SVN, Scrum]
 
 11. State Government, WA | Consultant | Java Engineer ~ Team-built J2EE criminal record web services. Built generic entity manager, entities and Swing-Hibernate query tool. [Java 5, JBoss, DB2, Axis, XStream, Maven, Perforce, CC, Scrum]
 
