@@ -43,37 +43,37 @@ Javawerks
 
 1997.3 – 2012.12 | Javawerks, Clearwater, FL | Consultant | Java Engineer ~ Designed and built Java apps and components. [Java 5, J2EE, Spring, Hibernate, Swing, Ant, Maven, SVN, Scrum]
 
-1. Mad Mobile, FL | Startup | Java Engineer ~ Built single page web app and NodeJs-websocket server, allowing for graphical selection of Html5 elements and construction of Css3 selectors, persisted in MongoDB as named queries, executable by remote mobile web clients for dynamic UI model-based rendering. Rebuilt with Java, JavaFX and Spring Rest due to browser constraints and JS performance and memory leak issues. [Java 7, JPA, Hibernate, H2, jQuery, Jsdom, Socket.io, Maven, Git]
+1. Mad Mobile, FL | Startup | Java Engineer ~ Designed and built single page web app and NodeJs-websocket server, allowing for graphical selection of Html5 elements and construction of Css3 selectors, persisted in MongoDB as named queries, executable by remote mobile web clients for dynamic UI model-based rendering. Rebuilt with Java, JavaFX and Spring Rest due to browser constraints and JS performance and memory leak issues. [Java 7, JPA, Hibernate, H2, jQuery, Jsdom, Socket.io, Maven, Git]
 
 2. Catalina Marketing, FL | Consultant | Java Engineer ~ Co-architected distributed hierarchical customer ID analytics solution using Pentaho and JAX-WS web services, targeting multiple enterprise data sources and sinks. Built Hadoop prototype. [Java 6, Tomcat, Oracle, Spring, JPA, Hibernate, Axis2, Jibix, Maven, Jenkins, SVN]
 
 3. Disney World, FL | Consultant | Java Engineer ~ Implemented enhancements to J2EE room availability and inventory apps. Built GWT inventory analysis client. [Java 5, JBoss, Oracle, Spring, JPA, Hibernate, RichFaces, Struts, Maven, Clearcase]
 
-4. NDR, FL | Consultant | Java Engineer ~ Built Swing-Spring DI Historical Stock Screener client, composed of financial criteria, interactive models, charts and tables, Spring-Hibernate generic entity manager, JPA entities and Spring HttpInvoker services. Built daily Russell Index service with Spring Batch, Spring-Hibernate generic entity manager, JPA entities and JMX attributes. Built Scala prototype. [Java 6, Tomcat, SwingX, JFreeChart, POI, Ehcache, Maven, Nexus, Hudson, SVN]
+4. NDR, FL | Consultant | Java Engineer ~ Designed and built Swing-Spring DI Historical Stock Screener client, composed of financial criteria, interactive models, charts and tables, Spring-Hibernate generic entity manager, JPA entities and Spring HttpInvoker services. Designed and built daily Russell Index service with Spring Batch, Spring-Hibernate generic entity manager, JPA entities and JMX attributes. [Java 6, Tomcat, SwingX, JFreeChart, POI, Ehcache, Maven, Nexus, Hudson, SVN]
 
 5. IHG, GA | Consultant | Java Engineer ~ Built Spring-Hibernate generic entity manager, JPA/JAXB entities, MDPs, generic JAXB marshaller, pooled XSD validator/XSLT transformer, POX/JAX-WS/JMS services, JMX beans/aspects, JMS queue transferer and URI archiver. Built ServiceMix, OSGi/SpringDM and Spring Integration prototypes. [Java 6, Groovy, Resin, Oracle, MQ, ActiveMQ, CXF, Quartz, Maven, Hudson, SVN, Scrum]
 
-6. Disney World, FL | Consultant | Java Engineer ~ Built Spring-JPA generic entity manager and JPA entities for J2EE reservation app. Built inventory adjustment components, JAX-WS services, MDPs, JMX beans, JIBIX bindings, AOP retry strategies and auditors. [Java 5, JBoss, Oracle, Hibernate, Drools, MQ, CXF, Quartz, RichFaces, Maven, Scrum]
+6. Disney World, FL | Consultant | Java Engineer ~ Designed and built Spring-JPA generic entity manager and JPA entities for J2EE reservation app. Designed and built inventory adjustment components, JAX-WS services, MDPs, JMX beans, JIBIX bindings, AOP retry strategies and auditors. [Java 5, JBoss, Oracle, Hibernate, Drools, MQ, CXF, Quartz, RichFaces, Maven, Scrum]
 
-7. Qualcomm, CA | Consultant | Java Engineer ~ Built Mule components, applications and POX web services for mobile billing integration with AT&T and Verizon. Built JMX beans, AOP retry strategies and auditors. [Java 6, JBoss, Oracle, Oracle-JMS, Spring, XStream, Maven, SVN, Scrum]
+7. Qualcomm, CA | Consultant | Java Engineer ~ Designed and built Mule components, applications and POX web services for mobile billing integration with AT&T and Verizon. Designed and built JMX beans, AOP retry strategies and auditors. [Java 6, JBoss, Oracle, Oracle-JMS, Spring, XStream, Maven, SVN, Scrum]
 
-8. FPL, FL, Consultant, Java Engineer : Built Swing components and features for energy trading app. [Java 6, Tomcat, Oracle, SwingX, SVN]
+8. FPL, FL, Consultant, Java Engineer : Designed and built Swing components and features for energy trading app. [Java 6, Tomcat, Oracle, SwingX, SVN]
 
-9. CDC, GA | Consultant | Java Engineer ~ Built Gigaspaces master-worker space composed of Spring beans that build composite reports via executors, callables and futures. Built Terracotta prototype. [Java 5, Oracle, Maven, SVN]
+9. CDC, GA | Consultant | Java Engineer ~ Designed and built Gigaspaces master-worker space composed of Spring beans that build composite reports via executors, callables and futures. Built Terracotta prototype. [Java 5, Oracle, Maven, SVN]
 
-10. KnowledgeStorm, GA | Consultant | Java Engineer ~ Built J2EE app for lifecycle-management of Nutch-Lucene indexes across JBoss cluster via Swing-Spring DI client. AOP injected custom Nutch features. Built Nutch sentence-fragment summarizer. Added compression/caching to Axis web service, yielding sub-second response times. [Java 5, Oracle, Hibernate, Maven, SVN, Scrum]
+10. KnowledgeStorm, GA | Consultant | Java Engineer ~ Designed and built J2EE app for lifecycle-management of Nutch-Lucene indexes across JBoss cluster via Swing-Spring DI client. AOP injected custom Nutch features. Built Nutch sentence-fragment summarizer. Added compression/caching to Axis web service, yielding sub-second response times. [Java 5, Oracle, Hibernate, Maven, SVN, Scrum]
 
 11. State Government, WA | Consultant | Java Engineer ~ Team-built J2EE criminal record web services. Built generic entity manager, entities and Swing-Hibernate query tool. [Java 5, JBoss, DB2, Axis, XStream, Maven, Perforce, CC, Scrum]
 
-12. MarketGrader, FL | Startup | Java Engineer ~ Built J2EE stock report app, Swing client, Java2D Swing stock component and open source Quartz DailyCalendar. [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP] (https://tinyurl.com/y7frm74e)
+12. MarketGrader, FL | Startup | Java Engineer ~ Designed and built J2EE stock report app, Swing client, Java2D Swing stock component and open source Quartz DailyCalendar. [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP] (https://tinyurl.com/y7frm74e)
 
-13. Fedex, FL | Consultant | Java Engineer ~ Built JAXM web service to interoperate with IBM CICS, MQ and DB2. [Java, WebLogic, XmlBeans, Ant, CVS]
+13. Fedex, FL | Consultant | Java Engineer ~ Designed and built JAXM web service to interoperate with IBM CICS, MQ and DB2. [Java, WebLogic, XmlBeans, Ant, CVS]
 
-14. PWC, FL | Consultant | Java Engineer ~ Built J2EE web app, allowing for development and lifecycle management of surveys, polls and tests. [Java, WebLogic, Oracle, Struts, Ant, CVS]
+14. PWC, FL | Consultant | Java Engineer ~ Designed and built J2EE web app, allowing for development and lifecycle management of surveys, polls and tests. [Java, WebLogic, Oracle, Struts, Ant, CVS]
 
-15. Nielsen Media, FL | Employee | Java Engineer ~ Built Swing TV programming applet, workflow components, auditing aspects and ILOG/JRules prototypes. [Java, Weblogic, Oracle, Ant, CVS, XP]
+15. Nielsen Media, FL | Employee | Java Engineer ~ Designed and built Swing TV programming applet, workflow components, auditing aspects and ILOG/JRules prototypes. [Java, Weblogic, Oracle, Ant, CVS, XP]
 
-16. US Navy, VA | Consultant | Java Engineer ~ Built J2EE web app, allowing US Navy Seabees to manage global container logistics and integrate with US Navy accounting via POX web service. [Java, Jetty, MySql, Struts, Castor, Ant, VSS]
+16. US Navy, VA | Consultant | Java Engineer ~ Designed and built J2EE web app, allowing US Navy Seabees to manage global container logistics and integrate with US Navy accounting via POX web service. [Java, Jetty, MySql, Struts, Castor, Ant, VSS]
 
 17. OTG, FL | Startup | Java Engineer ~ Team-built EAI product, composed of Jini services that execute integration components via JavaSpace messaging, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP] 
 
@@ -81,7 +81,7 @@ Javawerks
 
 19. Ariba, FL | Startup | Java Engineer ~ Team-built Ariba UDDI implementation in cooperation with IBM and Microsoft. Implemented Tradex product enhancements. [Java, Weblogic, Oracle, Ant, CVS]
 
-20. Identitech, FL | Consultant | Java Engineer ~ Built Swing property sheet component, common property editors and RMI document management apps. [Java, MySql, CVS]
+20. Identitech, FL | Consultant | Java Engineer ~ Designed and built Swing property sheet component, common property editors and RMI document management apps. [Java, MySql, CVS]
 
 21. Kinetoscope, FL | Startup | Java Engineer ~ Team-built market analysis tool, composed of AWT client, RMI server and ObjectStore database. [Java]
 
