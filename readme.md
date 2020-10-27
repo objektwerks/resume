@@ -85,13 +85,6 @@ Javawerks
 
 21. Kinetoscope, FL | Startup | Java Engineer ~ Team-built market analysis tool, composed of AWT client, RMI server and ObjectStore database. [Java]
 
-Open Source
------------
-1. Healthcharts ( https://github.com/objektwerks/healthcharts )
-2. Homeschool ( https://github.com/objektwerks/homeschool )
-3. Poolmate ( https://github.com/objektwerks/poolmate )
-4. Quartz Scheduler DailyCalendar ( https://tinyurl.com/y7frm74e )
-
 Training
 --------
 1. Machine Learning A-Z: Hands-on Python & R in Data Science [Udemy : 2018]
