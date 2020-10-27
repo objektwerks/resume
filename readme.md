@@ -65,7 +65,7 @@ Javawerks
 
 11. State Government, WA | Consultant | Java Engineer ~ Team-built J2EE criminal record web services. Built generic entity manager, entities and Swing-Hibernate query tool. [Java 5, JBoss, DB2, Axis, XStream, Maven, Perforce, CC, Scrum]
 
-12. MarketGrader, FL | Startup | Java Engineer ~ Built J2EE stock report app, Swing client, Java2D Swing stock  component and Quartz DailyCalendar. [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP]
+12. MarketGrader, FL | Startup | Java Engineer ~ Built J2EE stock report app, Swing client, Java2D Swing stock component and open source Quartz DailyCalendar. [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP] (https://tinyurl.com/y7frm74e)
 
 13. Fedex, FL | Consultant | Java Engineer ~ Built JAXM web service to interoperate with IBM CICS, MQ and DB2. [Java, WebLogic, XmlBeans, Ant, CVS]
 
@@ -119,7 +119,7 @@ US Navy
 
 Laptop
 ------
->Macbook Pro Retina 15”, i7, 32GB, OSX 10.15. Require similar model for work, with Admin rights.
+>Macbook Pro Retina 15”, i7, 32GB, OSX 10.15. Require similar model for work with Admin rights.
 
 Environment
 -----------
