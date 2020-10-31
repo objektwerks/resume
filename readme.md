@@ -12,7 +12,7 @@ Objektwerks
 
 1. Objektwerks, Cape Haze, FL | Open Source | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
-2. Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.11/2, Spark 2.4, Akka-Http 10, uPickle 1.0, Sbt, Git]
+2. Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.12, Spark 3, Akka-Http 10, uPickle 1.2, Sbt, Git]
 
 3. FormsLogic, Chicago, IL | Remote Consultant | Scala Engineer ~ Built new web service calls and enhanced pdf reports for a form-driven workflow app. [Scala 2.11, Play 2, Postgresql 9, Anorm, Jaspersoft Studio, Sbt, Git]
 
@@ -63,7 +63,7 @@ Javawerks
 
 10. KnowledgeStorm, GA | Consultant | Java Engineer ~ Designed and built J2EE app for lifecycle-management of Nutch-Lucene indexes across JBoss cluster via Swing-Spring DI client. AOP injected custom Nutch features. Designed and built Nutch sentence-fragment summarizer. Added compression/caching to Axis web service, yielding sub-second response times. [Java 5, Oracle, Hibernate, Maven, SVN, Scrum]
 
-11. State Government, WA | Consultant | Java Engineer ~ Team-built J2EE criminal record web services. Built generic entity manager, entities and Swing-Hibernate query tool. [Java 5, JBoss, DB2, Axis, XStream, Maven, Perforce, CC, Scrum]
+11. State Government, WA | Consultant | Java Engineer ~ Team-designed and -built J2EE criminal record web services. Built generic entity manager, entities and Swing-Hibernate query tool. [Java 5, JBoss, DB2, Axis, XStream, Maven, Perforce, CC, Scrum]
 
 12. MarketGrader, FL | Startup | Java Engineer ~ Designed and built J2EE stock report app, Swing client, Java2D Swing stock component and open source Quartz DailyCalendar. [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP] (https://tinyurl.com/y7frm74e)
 
@@ -75,15 +75,15 @@ Javawerks
 
 16. US Navy, VA | Consultant | Java Engineer ~ Designed and built J2EE web app, allowing US Navy Seabees to manage global container logistics and integrate with US Navy accounting via POX web service. [Java, Jetty, MySql, Struts, Castor, Ant, VSS]
 
-17. OTG, FL | Startup | Java Engineer ~ Team-built EAI product, composed of Jini services that execute integration components via JavaSpace messaging, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP] 
+17. OTG, FL | Startup | Java Engineer ~ Team-designed and -built EAI product, composed of Jini services that execute integration components via JavaSpace messaging, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP] 
 
-18. BetweenMarkets, TX | Startup | Java Engineer ~ Team-built eMarketplace product, composed of Jini services that execute SOAP web services, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP]
+18. BetweenMarkets, TX | Startup | Java Engineer ~ Team-designed and -built eMarketplace product, composed of Jini services that execute SOAP web services, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP]
 
-19. Ariba, FL | Startup | Java Engineer ~ Team-built Ariba UDDI implementation in cooperation with IBM and Microsoft. Implemented Tradex product enhancements. [Java, Weblogic, Oracle, Ant, CVS]
+19. Ariba, FL | Startup | Java Engineer ~ Team-designed and -built Ariba UDDI implementation in cooperation with IBM and Microsoft. Implemented Tradex product enhancements. [Java, Weblogic, Oracle, Ant, CVS]
 
 20. Identitech, FL | Consultant | Java Engineer ~ Designed and built Swing property sheet component, common property editors and RMI document management apps. [Java, MySql, CVS]
 
-21. Kinetoscope, FL | Startup | Java Engineer ~ Team-built market analysis tool, composed of AWT client, RMI server and ObjectStore database. [Java]
+21. Kinetoscope, FL | Startup | Java Engineer ~ Team-designed and -built market analysis tool, composed of AWT client, RMI server and ObjectStore database. [Java]
 
 Training
 --------
