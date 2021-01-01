@@ -3,6 +3,7 @@ Mike Funk
 
 * Email ~ objektwerks@runbox.com
 * Github ~ https://github.com/objektwerks
+* Gitlab ~ https://gitlab.com/users/objektwerks/projects
 * LinkedIn ~ https://linkedin.com/in/objektwerks
 
 Objektwerks
