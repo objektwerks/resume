@@ -112,8 +112,8 @@ US Navy
 
 Laptop
 ------
->Macbook Pro Retina 15”, i7, 32GB, OSX 10.15. Require similar model for work with Admin rights.
+>Macbook Air 13”, M1, 16GB. Require similar model for work with Admin rights.
 
 Environment
 -----------
->See https://github.com/objektwerks/scala for details.
+>See https://github.com/objektwerks/scala Environment section for details.
