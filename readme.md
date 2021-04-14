@@ -91,7 +91,7 @@ Training
 
 Skills
 ------
-1. Scala – 7+
+1. Scala – 8+
 2. Java – 16
 3. Swing – 10
 4. Spring – 8
