@@ -8,7 +8,7 @@ Mike Funk
 Objektwerks
 -----------
 
-2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 3/2, Spark, ScalaJS, ScalaFX, Swing, JFreeChart, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Sbt, Git] [Kotlin 1.4, Arrow, Ktor, Exposed, Gradle] [Rust 1.5, Hyper, Reqwest, Serde, Cargo]
+2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 3/2, Spark 2/3, Swing, JFreeChart, ScalaFx, ScalaJs, Laminar, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Sbt, Git] [Kotlin 1.4, Arrow, Ktor, Exposed, Gradle] [Rust 1.5, Hyper, Reqwest, Serde, Cargo]
 
 1. Objektwerks, Cape Haze, FL | Open Source | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
