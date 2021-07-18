@@ -98,8 +98,8 @@ Skills
 5. Hibernate – 8
 6. JPA – 6
 7. Web – 3
-8. Akka – 2
-9. Akka-Http – 2
+8. Akka – 3
+9. Akka-Http – 3
 10. Spark – 2
 
 Degree
