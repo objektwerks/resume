@@ -8,7 +8,7 @@ Mike Funk
 Objektwerks
 -----------
 
-2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 3/2, Spark 2/3, Swing, JFreeChart, ScalaFx, ScalaJs, Laminar, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Sbt, Git] [Kotlin 1.4, Arrow, Ktor, Exposed, Gradle] [Rust 1.5, Hyper, Reqwest, Serde, Cargo]
+2013.1 – Present | Objektwerks, Cape Haze, FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 3/2, Spark 2/3, Swing, JFreeChart, ScalaFx, ScalaJs, Laminar, Akka-Typed, Akka-Http, Quill, PostgreSQL, uPickle, Sbt, Git] [Kotlin 1.4, Arrow, Ktor, Exposed, Gradle] [Rust 1.5, Hyper, Reqwest, Serde, Cargo]
 
 1. Objektwerks, Cape Haze, FL | Open Source | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
@@ -30,7 +30,7 @@ Objektwerks
 
 10. Bottle Rocket, Addison, TX | Consultant | Scala Engineer ~ Designed and built Mongodb-Csv-Sftp-Smtp integration app for national fast-food chain. Closed multiple Jira tickets. [Scala 2.11, ReactiveMongo, Spray, Sbt, Git]
 
-11. HERE, Chicago, IL | Consultant | Scala Engineer ~ Designed and built Akka cluster driven by RabbitMq and dynamic cluster-aware master-worker actor pairs that validate map data consumed from an AWS rest service. Built map data store change listener; RabbitMq connector; and Akka-Http and Akka-Streams queue routers. [Scala 2.11, PlayJSON, Sbt, Git]
+11. HERE, Chicago, IL | Consultant | Scala Engineer ~ Designed and built Akka cluster driven by RabbitMq and dynamic cluster-aware master-worker actor pairs that validate map data consumed from an AWS-S3 service. Built map data store change listener; RabbitMq connector; and Akka-Http and Akka-Streams queue routers. [Scala 2.11, PlayJSON, Sbt, Git]
 
 12. Adjoy, Tampa, FL | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Cassandra prototypes. [Scala 2.11, Sbt, Git]
 
