@@ -3,7 +3,6 @@ Mike Funk
 
 * Email ~ objektwerks@runbox.com
 * Github ~ github.com/objektwerks
-* LinkedIn ~ linkedin.com/in/objektwerks
 
 Objektwerks
 -----------
@@ -97,9 +96,9 @@ Skills
 4. Spring – 8
 5. Hibernate – 8
 6. JPA – 6
-7. Web – 3
-8. Akka – 3
-9. Akka-Http – 3
+7. Web – 4
+8. Akka – 4
+9. Akka-Http – 4
 10. Spark – 2
 
 Degree
