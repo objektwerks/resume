@@ -1,8 +1,5 @@
-Mike Funk
----------
-
-* Email ~ objektwerks@runbox.com
-* Github ~ github.com/objektwerks
+* **Email** ~ objektwerks@runbox.com
+* **Github** ~ github.com/objektwerks
 
 Objektwerks
 -----------
