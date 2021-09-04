@@ -1,8 +1,7 @@
-* **Email** ~ objektwerks@runbox.com
-* **Github** ~ https://github.com/objektwerks
-
 Objektwerks
 -----------
+* **Email** ~ objektwerks@runbox.com
+* **Github** ~ https://github.com/objektwerks
 
 2013.1 – Present | Objektwerks, FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 3/2, Spark 2/3, Swing, JFreeChart, ScalaFx, ScalaJs, Laminar, Akka-Typed, Akka-Http, Quill, PostgreSQL, uPickle, Sbt, Git] [Kotlin 1.4, Arrow, Ktor, Exposed, Gradle] [Rust 1.5, Hyper, Reqwest, Serde, Cargo]
 
