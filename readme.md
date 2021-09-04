@@ -1,5 +1,5 @@
 * **Email** ~ objektwerks@runbox.com
-* **Github** ~ github.com/objektwerks
+* **Github** ~ https://github.com/objektwerks
 
 Objektwerks
 -----------
