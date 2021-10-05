@@ -3,7 +3,7 @@ Objektwerks
 * **Email** ~ objektwerks@runbox.com
 * **Github** ~ https://github.com/objektwerks
 
-2013.1 – Present | Objektwerks, FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 2/3, Spark, Swing, JFreeChart, ScalaFx, ScalaJs, Laminar, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Zio, Sbt, Git] [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Hyper, Reqwest, Serde, Cargo]
+2013.1 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 2/3, Spark, Swing, JFreeChart, ScalaFx, ScalaJs, Laminar, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Zio, Sbt, Git] [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Hyper, Reqwest, Serde, Cargo]
 
 1. Objektwerks, FL | Open Source | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
@@ -36,7 +36,7 @@ Objektwerks
 Javawerks
 ---------
 
-1997.3 – 2012.12 | Javawerks, FL | Consultant | Java Engineer ~ Designed and built distributed and desktop Java apps and components. [Java 5, J2EE, Spring, Hibernate, Swing, Ant, Maven, SVN, Scrum]
+1997.3 – 2012.12 | FL | Consultant | Java Engineer ~ Designed and built distributed and desktop Java apps and components. [Java 5, J2EE, Spring, Hibernate, Swing, Ant, Maven, SVN, Scrum]
 
 1. Mad Mobile, FL | Startup | Java Engineer ~ Designed and built single page web app and NodeJs-websocket server, allowing for graphical selection of Html5 elements and construction of Css3 selectors, persisted in MongoDB as named queries, executable by remote mobile web clients for dynamic UI model-based rendering. Rebuilt with Java, JavaFX and Spring Rest due to browser constraints and JS performance and memory leak issues. [Java 7, JPA, Hibernate, H2, jQuery, Jsdom, Socket.io, Maven, Git]
 
