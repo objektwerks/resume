@@ -1,6 +1,6 @@
-Sunavabeach
+Objektwerks
 -----------
->**Email** ~ sunavabeach@runbox.com
+>**Email** ~ objektwerks@runbox.com
 
 2013.1 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 2/3, Spark, Swing, JFreeChart, ScalaFx, ScalaJs, Laminar, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Zio, Sbt, Git] [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Hyper, Reqwest, Serde, Cargo]
 
