@@ -4,11 +4,11 @@ Objektwerks
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 2/3, Spark, Swing, JFreeChart, Scala Native, ScalaFx, ScalaJs, Laminar, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Zio, Sbt, Git] [Java 8/17, GraalVM] [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Hyper, Reqwest, Serde, Cargo]
 
-1. 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
+* 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
-2. 2020 - 2021 | Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.12, Spark 3, Akka-Http 10, uPickle 1.2, Sbt, Git]
+* 2020 - 2021 | Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.12, Spark 3, Akka-Http 10, uPickle 1.2, Sbt, Git]
 
-3. 2020 | FormsLogic, Chicago, IL | Remote Consultant | Scala Engineer ~ Built new web service calls and enhanced pdf reports for a form-driven workflow app. [Scala 2.11, Play 2, Postgresql 9, Anorm, Jaspersoft Studio, Sbt, Git]
+* 2020 | FormsLogic, Chicago, IL | Remote Consultant | Scala Engineer ~ Built new web service calls and enhanced pdf reports for a form-driven workflow app. [Scala 2.11, Play 2, Postgresql 9, Anorm, Jaspersoft Studio, Sbt, Git]
 
 4. 2020 | NYISO, Albany, NY | Remote Consultant | Scala Engineer ~ Built proprietary workflow-directed Spark batch jobs sourced, joined, transformed and sinked from and to multiple Delta Lake date partitioned parquet tables. [Scala 2.12, Spark 2.4, Delta Lake 0.5, Cats 2.1, AWS-S3, Sbt, Git]
 
