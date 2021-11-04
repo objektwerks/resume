@@ -79,7 +79,7 @@ Javawerks
 
 * 1997 | Kinetoscope, FL | Startup | Java Engineer ~ Team-designed and -built market analysis tool, composed of AWT client, RMI server and ObjectStore database. [Java]
 
-* 1993 - 1997 | FL | Consultant ~ Visual C++, Visual Basic, Access, PowerBuilder, Delphi, SQL Server, Oracle
+* 1993 - 1997 | FL | Consultant ~ C/C++, Visual C++, Visual Basic, Access, Delphi, PowerBuilder, SQL Server, Oracle
 
 Training
 --------
