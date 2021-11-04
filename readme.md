@@ -79,6 +79,8 @@ Javawerks
 
 21. 1997 | Kinetoscope, FL | Startup | Java Engineer ~ Team-designed and -built market analysis tool, composed of AWT client, RMI server and ObjectStore database. [Java]
 
+22. 1993 - 1997 | FL | Consultant ~ Visual C++, Visual Basic, Access, PowerBuilder, Delphi, SQL Server, Oracle
+
 Training
 --------
 1. Machine Learning A-Z: Hands-on Python & R in Data Science [Udemy : 2018]
