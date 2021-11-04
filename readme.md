@@ -4,7 +4,7 @@ Objektwerks
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed and desktop apps. [Scala 2/3, Spark, Swing, JFreeChart, Scala Native, ScalaFx, ScalaJs, Laminar, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Zio, Sbt, Git] [Java 8/17, GraalVM] [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Hyper, Reqwest, Serde, Cargo]
 
-1. 2020 - 2021 | Objektwerks, FL | Open Source | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
+1. 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
 2. 2020 - 2021 | Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.12, Spark 3, Akka-Http 10, uPickle 1.2, Sbt, Git]
 
@@ -18,9 +18,9 @@ Objektwerks
 
 7. 2018 | Starbucks, Seattle, WA | Consultant | Scala Engineer ~ Designed and built customer order history event-driven pipelines, defined by web service sources, event flows and web service sinks. Built custom Akka-Http directives and Scala-Xml bindings. [Scala 2.12, Azure EventHub, Circe 0.8, Cats 1.0, Cassandra 3.5, Sbt, Git]
 
-8. 2017 | Objektwerks, FL | Open Source | Scala Engineer ~ Designed and built open source, cross-platform homeschool management desktop app with H2 store. [Scala 2.13, ScalaFX 14-R19, H2, Sbt, Git] (https://github.com/objektwerks/homeschool)
+8. 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform homeschool management desktop app with H2 store. [Scala 2.13, ScalaFX 14-R19, H2, Sbt, Git] (https://github.com/objektwerks/homeschool)
 
-9. 2017 | Objektwerks, FL | Open Source | Scala Engineer ~ Designed and built open source, cross-platform pool management desktop app with H2 store. [Scala 2.13, ScalaFX 14-R19, H2, Sbt, Git] (https://github.com/objektwerks/poolmate)
+9. 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform pool management desktop app with H2 store. [Scala 2.13, ScalaFX 14-R19, H2, Sbt, Git] (https://github.com/objektwerks/poolmate)
 
 10. 2016 | Bottle Rocket, Addison, TX | Consultant | Scala Engineer ~ Designed and built Mongodb-Csv-Sftp-Smtp integration app for national fast-food chain. Closed multiple Jira tickets. [Scala 2.11, ReactiveMongo, Spray, Sbt, Git]
 
