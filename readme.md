@@ -81,10 +81,6 @@ Javawerks
 
 * 1993 - 1997 | FL | Consultant ~ C/C++, Visual C++, Visual Basic, Access, Delphi, PowerBuilder, SQL Server, Oracle
 
-Training
---------
-1. Machine Learning A-Z: Hands-on Python & R in Data Science [Udemy : 2018]
-
 Skills
 ------
 1. Scala – 8+
@@ -97,6 +93,10 @@ Skills
 8. Akka – 4
 9. Akka-Http – 4
 10. Spark – 2
+
+Training
+--------
+1. Machine Learning A-Z: Hands-on Python & R in Data Science [Udemy : 2018]
 
 Degree
 ------
