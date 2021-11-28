@@ -103,6 +103,7 @@ Training
 * Spark Performance Tuning with Scala [Rock the JVM: 2020]
 * Scala and Functional Programming Interview Practice [Rock the JVM: 2020]
 * Scala and Functional Programming Essentials [Udemy: 2020]
+* Advanced Scala and Functional Programming Essentials [Udemy: 2020]
 
 Degree
 ------
