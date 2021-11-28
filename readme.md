@@ -98,12 +98,12 @@ Skills
 
 Training
 --------
+* Scala and Functional Programming Essentials [Udemy: 2018]
+* Advanced Scala and Functional Programming Essentials [Udemy: 2018]
 * Machine Learning A-Z: Hands-on Python & R in Data Science [Udemy : 2018]
 * Spark Optimization with Scala [Rock the JVM: 2020]
 * Spark Performance Tuning with Scala [Rock the JVM: 2020]
 * Scala and Functional Programming Interview Practice [Rock the JVM: 2020]
-* Scala and Functional Programming Essentials [Udemy: 2020]
-* Advanced Scala and Functional Programming Essentials [Udemy: 2020]
 
 Degree
 ------
