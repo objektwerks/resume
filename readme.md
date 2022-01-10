@@ -2,11 +2,11 @@ Objektwerks
 -----------
 >**Email** ~ objektwerks@runbox.com
 
-2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps. [Scala 2/3, Spark, Swing, JFreeChart, Scala Native, ScalaFx, ScalaJs, Laminar, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Sbt, Git] [Java 8/17, GraalVM]
+2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps. [Scala 2/3, Spark, Swing, JFreeChart, Scala Native, ScalaFx, ScalaJs, Laminar, Waypoint, Akka, Akka-Http, Quill, PostgreSQL, uPickle, Sbt, Git] [Java 8/17, GraalVM]
 
 Built prototypes and feature tests for Kotlin and Rust. [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Actix, Actix-Web, Hyper, Rocket, Tide, Reqwest, Rusqlite, Sqlx, Serde, Log4rs, Cargo]
 
-* 2022 - Present | Sunavabeach, FL | Scala Engineer ~ Designing and building a commercial mobile web app. [Scala 3, ScalaJs, Cask, uPickle, ScalikeJdbc, Postgresql, Sbt, Git]
+* 2022 - Present | Sunavabeach, FL | Scala Engineer ~ Designing and building a commercial mobile web app. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, ScalikeJdbc, Postgresql, Sbt, Git]
 
 * 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
