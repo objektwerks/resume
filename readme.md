@@ -6,7 +6,7 @@ Objektwerks
 
 Built prototypes and feature tests for Kotlin [Kotlin, Arrow, Ktor, Exposed, Gradle] and Rust. [Rust, Actix, Actix-Web, Hyper, Rocket, Tide, Reqwest, Rusqlite, Sqlx, Serde, Log4rs, Cargo]
 
-* 2022 - Present | Sunavabeach, FL | Scala Engineer ~ Designing and building a commercial mobile web app. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, ScalikeJdbc, Postgresql, Sbt, Git]
+* 2022 - Present | Sunavabeach, FL | Scala Engineer ~ Designing and building a commercial mobile web app. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Postgresql, Sbt, Git]
 
 * 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform health charts desktop app, sourced by csv/txt files, targeting 11 charts. [Scala 2.13, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
