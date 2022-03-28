@@ -87,7 +87,7 @@ Javawerks
 
 Skills
 ------
-1. Scala – 8+
+1. Scala – 9
 2. Java – 16
 3. Swing – 10
 4. Spring – 8
