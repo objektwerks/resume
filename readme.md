@@ -22,7 +22,7 @@ Built prototypes and feature tests for Kotlin [Kotlin, Arrow, Ktor, Exposed, Gra
 
 * 2018 | Starbucks, Seattle, WA | Consultant | Scala Engineer ~ Designed and built customer order history event-driven pipelines, defined by web service sources, event flows and web service sinks. Built custom Akka-Http directives and Scala-Xml bindings. [Scala 2.12, Azure EventHub, Circe 0.8, Cats 1.0, Cassandra 3.5, Sbt, Git]
 
-* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform homeschool management desktop app with H2 store. [Scala 2.13, ScalaFX 14-R19, H2, Sbt, Git] (https://github.com/objektwerks/homeschool)
+* 2017 | Objektwerks, FL | Homeschool | Scala Engineer ~ Designed and built open source, cross-platform homeschool management desktop app with H2 store. [Scala 2.13, ScalaFX 14-R19, H2, Sbt, Git] (https://github.com/objektwerks/homeschool)
 
 * 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source, cross-platform pool management desktop app with H2 store. [Scala 2.13, ScalaFX 14-R19, H2, Sbt, Git] (https://github.com/objektwerks/poolmate)
 
