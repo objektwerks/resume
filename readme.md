@@ -8,7 +8,7 @@ Built prototypes and feature tests for Kotlin [Kotlin, Arrow, Ktor, Exposed, Gra
 
 * 2022 - Present | Objektwerks, Sunavabeach, FL | Poolmate Mobile | Scala Engineer ~ Designing and building a ***commercial*** mobile web app. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Postgresql, Sbt, Git]
 
-* 2020 - 2021 | Objektwerks, Sunavabeach, FL | Healthcharts | Scala Engineer ~ Designed and built an ***open source***, cross-platform desktop app, sourced by csv-txt files, targeting 11 health charts. Upgraded to Scala 3 on 2022.3.8. [Scala 2/3, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
+* 2020 - 2021 | Objektwerks, Sunavabeach, FL | Healthcharts | Scala Engineer ~ Designed and built an ***open source***, cross-platform desktop app, sourced by csv-txt files, targeting 11 health charts. Upgraded to Scala 3, 2022.3. [Scala 2/3, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
 * 2020 - 2021 | Baptist Health South Florida, Miami, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.12, Spark 3, Akka-Http 10, uPickle 1.2, Sbt, Git]
 
