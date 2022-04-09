@@ -119,7 +119,7 @@ US Navy
 
 Laptop
 ------
->Macbook Air 13”, M1, 16GB. Require similar model for work with Admin rights.
+>Macbook Air, M1, 13”, 16GB. Require similar model for work with **Admin rights**.
 
 Environment
 -----------
