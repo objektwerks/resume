@@ -117,7 +117,7 @@ Degree
 
 US Navy
 -------
->Intelligence | Alaska, Diego Garcia, Guam, Japan, Washington D.C.
+>Intelligence | Alaska, Diego Garcia, Guam, Japan, D.C.
 
 Laptop
 ------
