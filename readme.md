@@ -2,9 +2,9 @@ Objektwerks
 -----------
 >**Email** ~ objektwerks@runbox.com
 
-2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps. [Scala 2/3, Spark, Swing, JFreeChart, ScalaFx, ScalaJs, Laminar, Waypoint, Akka, Akka-Http, Quill, ScalikeJdbc, PostgreSQL, uPickle, Sbt, Git] [Java 17, GraalVM]
+2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps. [Scala 3, Spark, Swing, ScalaFx, ScalaJs, Akka, Akka-Http, Quill, ScalikeJdbc, PostgreSQL, uPickle, Sbt, Git] [Java 17, GraalVM]
 
-Build and maintain feature tests for ***newest version*** of ***Java***, ***Kotlin*** and ***Rust***. [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Actix, Actix-Web, Hyper, Rocket, Tide, Reqwest, Rusqlite, Sqlx, Serde, Log4rs, Cargo]
+Build and maintain feature tests for latest versions of Java, Kotlin and Rust. [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Actix, Actix-Web, Hyper, Rocket, Tide, Reqwest, Rusqlite, Sqlx, Serde, Log4rs, Cargo]
 
 * 2022 - Present | Objektwerks, Sunavabeach, FL | Pool Balance | Scala Engineer ~ Designing and building an ***open source*** desktop app. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (https://github.com/objektwerks/pool.balance)
 
