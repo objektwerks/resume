@@ -6,7 +6,7 @@ Objektwerks
 
 Build and maintain feature tests for latest versions of Java, Kotlin and Rust. [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Actix, Actix-Web, Hyper, Rocket, Tide, Reqwest, Rusqlite, Sqlx, Serde, Log4rs, Cargo]
 
-* 2022 - Present | Objektwerks, FL | Scala Engineer ~ Designing and building a commercial mobile web app, Poolmate Mobile. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Postgresql, JoddMail, Sbt, Git]
+* 2022 - Present | Objektwerks, FL | Scala Engineer ~ Designing and building a commercial mobile web app. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Postgresql, JoddMail, Sbt, Git]
 
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Pool Balance. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (github.com/objektwerks/pool.balance)
 
