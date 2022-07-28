@@ -8,7 +8,7 @@ Build and maintain feature tests for ***latest versions*** of Java, Kotlin and R
 
 * 2022 - Present | Objektwerks, FL | Scala Engineer ~ Designing and building a ***commercial*** mobile web app, ***Poolmate Mobile***. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Postgresql, JoddMail, Sbt, Git]
 
-* 2022 - Present | Objektwerks, FL | Scala Engineer ~ Designing and building an ***open source*** cross-platform desktop app, ***Pool Balance***. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (https://github.com/objektwerks/pool.balance)
+* 2022 - 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an ***open source*** cross-platform desktop app, ***Pool Balance***. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (https://github.com/objektwerks/pool.balance)
 
 * 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built an ***open source*** cross-platform desktop app, ***Healthcharts***, sourced by csv-txt files, targeting 11 health charts. [Scala 3, Swing, JFreeCharts, Sbt, Git] (https://github.com/objektwerks/healthcharts)
 
