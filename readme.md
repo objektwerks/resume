@@ -26,7 +26,7 @@ Build and maintain feature tests for ***latest versions*** of Java, Kotlin and R
 
 * 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built ***open source*** cross-platform desktop app, ***Homeschool***, with H2 store. [Scala 2.13, ScalaFx 14-R19, H2, Sbt, Git] (github.com/objektwerks/homeschool)
 
-* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built ***open source*** cross-platform pool management desktop app, ***Poolmate***, with H2 store. [Scala 2.13, ScalaFx 14-R19, H2, Sbt, Git] (github.com/objektwerks/poolmate)
+* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built ***open source*** cross-platform desktop app, ***Poolmate***, with H2 store. [Scala 2.13, ScalaFx 14-R19, H2, Sbt, Git] (github.com/objektwerks/poolmate)
 
 * 2016 | Bottle Rocket, TX | Consultant | Scala Engineer ~ Designed and built Mongodb-Csv-Sftp-Smtp integration app for national fast-food chain. Closed multiple Jira tickets. [Scala 2.11, ReactiveMongo, Spray, Sbt, Git]
 
