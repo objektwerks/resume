@@ -8,6 +8,8 @@ Build and maintain feature tests for latest versions of Java, Kotlin and Rust. [
 
 * 2022 - Present | Objektwerks, FL | Scala Engineer ~ Designing and building a commercial mobile web app. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Postgresql, JoddMail, Sbt, Git]
 
+* 2022 | Objektwerks, FL | Typescript Engineer ~ Designed and built an open source cross-platform web app, Work Order, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order)
+
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Pool Balance. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (github.com/objektwerks/pool.balance)
 
 * 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Healthcharts, sourced by csv-txt files, targeting 11 health charts. [Scala 3, Swing, JFreeCharts, Sbt, Git] (github.com/objektwerks/healthcharts)
