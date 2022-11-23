@@ -102,6 +102,7 @@ Skills
 
 Training
 --------
+* ZIO 2 [Rock the JVM: 2022]
 * Scala and Functional Programming Interview Practice [Rock the JVM: 2020]
 * Spark Performance Tuning with Scala [Rock the JVM: 2020]
 * Spark Optimization with Scala [Rock the JVM: 2020]
