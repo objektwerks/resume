@@ -8,7 +8,7 @@ Build and maintain feature tests for latest versions of Java, Kotlin and Rust. [
 
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Pool Balance. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (github.com/objektwerks/pool.balance) ***Currently rebuilding as distributed app using Swing and ZIO.*** [Scala 3, Swing, ZIO 2, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
 
-* 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform web app, Work Order, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order) Rebuilt using ScalaJs. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Mysql, JoddMail, Sbt, Git] (github.com/objektwerks/work.order.scala)
+* 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform web app, Work Order, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order) ***Rebuilt using ScalaJs.*** [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Mysql, JoddMail, Sbt, Git] (github.com/objektwerks/work.order.scala)
 
 * 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Healthcharts, sourced by csv-txt files, targeting 11 health charts. [Scala 3, Swing, JFreeCharts, Sbt, Git] (github.com/objektwerks/healthcharts)
 
