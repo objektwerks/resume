@@ -6,9 +6,9 @@ Objektwerks
 
 Build and maintain feature tests for latest versions of Java, Kotlin and Rust. [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Actix, Actix-Web, Hyper, Rocket, Tide, Reqwest, Rusqlite, Sqlx, Serde, Log4rs, Cargo]
 
-* 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform web app, Work Order, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order) Rebuilt using ScalaJs. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Mysql, JoddMail, Sbt, Git] (github.com/objektwerks/work.order.scala)
+* 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Pool Balance. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (github.com/objektwerks/pool.balance) ***Currently*** rebuilding using Swing and ZIO. [Scala 3, Swing, ZIO 2, ZIO-Quill, Postgresql]
 
-* 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Pool Balance. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (github.com/objektwerks/pool.balance)
+* 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform web app, Work Order, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order) Rebuilt using ScalaJs. [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Mysql, JoddMail, Sbt, Git] (github.com/objektwerks/work.order.scala)
 
 * 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Healthcharts, sourced by csv-txt files, targeting 11 health charts. [Scala 3, Swing, JFreeCharts, Sbt, Git] (github.com/objektwerks/healthcharts)
 
