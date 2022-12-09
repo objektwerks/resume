@@ -2,9 +2,7 @@ Objektwerks
 -----------
 >**Email** ~ objektwerks@runbox.com
 
-2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps. [Scala 3, Spark, Swing, ScalaFx, ScalaJs, Akka, Akka-Http, Quill, ScalikeJdbc, PostgreSQL, uPickle, Sbt, Git] [Java 19, GraalVM]
-
-Build and maintain feature tests for latest versions of Java, Kotlin and Rust. [Kotlin, Arrow, Ktor, Exposed, Gradle] [Rust, Actix, Actix-Web, Hyper, Rocket, Tide, Reqwest, Rusqlite, Sqlx, Serde, Log4rs, Cargo]
+2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps using using Scala technologies. Build and maintain feature tests for latest versions of Java, Kotlin and Rust.
 
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Pool Balance. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (github.com/objektwerks/pool.balance) ***Currently rebuilding as distributed app using Swing and ZIO.*** [Scala 3, Swing, ZIO 2, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
 
