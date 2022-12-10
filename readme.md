@@ -39,7 +39,7 @@ Objektwerks
 Javawerks
 ---------
 
-1997 – 2012 | FL | Consultant | Java Engineer ~ Designed and built distributed, web and desktop Java apps and components. [Java 5, J2EE, Spring, Hibernate, JPA, Swing, Struts, Ant, Maven, SVN, Scrum]
+1997 – 2012 | FL | Consultant | Java Engineer ~ Designed and built distributed, web and desktop Java apps and components.
 
 * 2011 | Mad Mobile, FL | Startup | Java Engineer ~ Designed and built single page web app and NodeJs-websocket server, allowing for graphical selection of Html5 elements and construction of Css3 selectors, persisted in MongoDB as named queries, executable by remote mobile web clients for dynamic UI model-based rendering. Rebuilt with Java, JavaFX and Spring Rest due to browser constraints and JS performance and memory leak issues. [Java 7, JPA, Hibernate, H2, jQuery, Jsdom, Socket.io, Maven, Git]
 
