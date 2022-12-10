@@ -2,7 +2,7 @@ Objektwerks
 -----------
 >**Email** ~ objektwerks@runbox.com
 
-2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps using using Scala technologies.
+2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Pool Balance. [Scala 3, ScalaFx, ScalikeJdbc, H2, Sbt, Git] (github.com/objektwerks/pool.balance) ***Currently rebuilding as distributed app using Swing and ZIO.*** [Scala 3, Swing, ZIO 2, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
 
