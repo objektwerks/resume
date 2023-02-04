@@ -91,14 +91,15 @@ Skills
 ------
 1. Scala – 9
 2. Java – 16
-3. Swing – 10
-4. Spring – 8
-5. Hibernate – 8
-6. JPA – 6
-7. Web – 4
-8. Akka – 4
-9. Akka-Http – 4
-10. Spark – 2
+3. Kotlin - 1
+4. Swing – 10
+5. Spring – 8
+6. Hibernate – 8
+7. JPA – 6
+8. Web – 4
+9. Akka – 4
+10. Akka-Http – 4
+11. Spark – 2
 
 Training
 --------
