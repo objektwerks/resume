@@ -4,7 +4,7 @@ Objektwerks
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
-* 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built a personal ***and*** enterprise edition open source cross-platform app, Pool Balance. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Sbt, Git] (github.com/objektwerks/pool.balance and /pool.balance.p) 
+* 2022 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built a personal ***and*** enterprise edition open source cross-platform app, Pool Balance. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Sbt, Git] (github.com/objektwerks/pool.balance and /pool.balance.p) 
 >***Rebuilt as distributed app using Swing and ZIO.*** [Scala 3, Swing, FlatLaf, ZIO 2, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
 
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform distributed web app, Work Order, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order)
