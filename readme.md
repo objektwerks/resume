@@ -129,4 +129,4 @@ Laptop
 
 Environment
 -----------
->See github.com/objektwerks/scala ***Environment*** section for details.
+>See [Environment](github.com/objektwerks/scala) section for details.
