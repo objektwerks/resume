@@ -67,7 +67,7 @@ Javawerks
 
 * 2005 | State Government, WA | Consultant | Java Engineer ~ Team-designed and -built J2EE criminal record web services. Built generic entity manager, entities and Swing-Hibernate query tool. [Java 5, JBoss, DB2, Axis, XStream, Maven, Perforce, CC, Scrum]
 
-* 2004 - 2005 | MarketGrader, FL | Startup | Java Engineer ~ Designed and built J2EE stock report app, Swing client, Java2D Swing stock component and open source Quartz DailyCalendar. [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP] (tinyurl.com/y7frm74e)
+* 2004 - 2005 | MarketGrader, FL | Startup | Java Engineer ~ Designed and built J2EE stock report app, Swing client, Java2D Swing stock component and open source Quartz DailyCalendar (see contribution @ tinyurl.com/y7frm74e). [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP]
 
 * 2004 | Fedex, FL | Consultant | Java Engineer ~ Designed and built JAXM web service to interoperate with IBM CICS, MQ and DB2. [Java, WebLogic, XmlBeans, Ant, CVS]
 
