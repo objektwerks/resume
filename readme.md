@@ -109,7 +109,7 @@ Training
 * Scala and Functional Programming Interview Practice [Rock the JVM: 2020]
 * Spark Performance Tuning with Scala [Rock the JVM: 2020]
 * Spark Optimization with Scala [Rock the JVM: 2020]
-* Apache Spark 3 and Big Data Essentials with Scala [Udemy: 2019]
+* Apache Spark 3 and Big Data Essentials with Scala [Udemy: 2019, 2023]
 * Akka Essentials with Scala [Udemy: 2019]
 * Machine Learning A-Z: Hands-on Python & R in Data Science [Udemy : 2018]
 * Advanced Scala and Functional Programming Essentials [Udemy: 2018, 2022]
