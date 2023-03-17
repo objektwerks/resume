@@ -105,7 +105,7 @@ Skills
 
 Training
 --------
-* Apache Spark Streaming 3 with Scala [Udemy: 2023]
+* Apache Spark Streaming 3 with Scala [Udemy: 2019, 2023]
 * Apache Spark 3 and Big Data Essentials with Scala [Udemy: 2019, 2023]
 * ZIO 2 [Rock the JVM: 2022]
 * Scala and Functional Programming Interview Practice [Rock the JVM: 2020]
