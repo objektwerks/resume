@@ -14,7 +14,7 @@ Objektwerks
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform distributed web app, **Work Order**, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order)
 >***Rebuilt as distributed app using ScalaJs.*** [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Mysql, JoddMail, Sbt, Git] (github.com/objektwerks/work.order.scala)
 
-* 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, Healthcharts, sourced by csv-txt files, targeting 11 health charts. [Scala 3, Swing, JFreeCharts, Sbt, Git] (github.com/objektwerks/healthcharts)
+* 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built an open source cross-platform desktop app, **Healthcharts**, sourced by csv-txt files, targeting 11 health charts. [Scala 3, Swing, JFreeCharts, Sbt, Git] (github.com/objektwerks/healthcharts)
 
 * 2020 - 2021 | Baptist Health South Florida, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.12, Spark 3, Akka-Http 10, uPickle 1.2, Sbt, Git]
 
