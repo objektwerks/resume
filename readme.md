@@ -103,7 +103,9 @@ Skills
 8. Web – 4
 9. Akka – 4
 10. Akka-Http – 4
-11. Spark – 2
+11. ScalaFX - 4
+12. ScalaJS - 4
+13. Spark – 2
 
 Training
 --------
