@@ -4,7 +4,7 @@ Objektwerks
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
-* 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built **Health Balance** app. [Scala 3, ScalaFx, Sbt, Git] (github.com/objektwerks/health.balance)
+* 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built **Health Balance** app. [Scala 3, ScalaFx, Jsoniter, PostgreSql, Sbt, Git] (github.com/objektwerks/health.balance)
 
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built **Ciphers** app. [Scala 3, ScalaFx, Sbt, Git] (github.com/objektwerks/ciphers)
 
