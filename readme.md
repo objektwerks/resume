@@ -8,7 +8,7 @@ Objektwerks
 
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built **Ciphers** app, featuring analysis of 23 ciphers with text, number and date input. [Scala 3, ScalaFx, Sbt, Git] (github.com/objektwerks/ciphers)
 
-* 2022 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built a personal ***and*** enterprise edition open source cross-platform app, **Pool Balance**, tracking and analyzing cleaning, measurement and chemical events. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Sbt, Git] (github.com/objektwerks/pool.balance and /pool.balance.p)
+* 2022 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built a personal ***and*** enterprise edition open source cross-platform app, **Pool Balance**, featuring tracking and analyzing of cleaning, measurement and chemical events. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Sbt, Git] (github.com/objektwerks/pool.balance and /pool.balance.p)
 
 >***Rebuilt as distributed ScalaJs app.*** [Scala 3, JDK Http, Jsoniter, Scalikejdbc, Laminar, Waypoint, W3.CSS, Chart.js, Scaffeine, JoddMail, Postgresql, Snowpack] (github.com/objektwerks/pool.balance.w)
 
