@@ -33,7 +33,7 @@ Objektwerks
 
 * 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Homeschool**, featuring tracking of students and courses by grade and analysis of assignments and aggregate course scores. [Scala 3, ScalaFx 20.0.0-R31, H2, Sbt, Git] (github.com/objektwerks/homeschool)
 
-* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Poolmate**, featuring tracking and analysis of pools, to include pumps, timers, heaters and surfaces as well as cleanings, measurements, chemicals, supplies and repairs. [Scala 2.13, ScalaFx 14-R19, H2, Sbt, Git] (github.com/objektwerks/poolmate)
+* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Poolmate**, featuring tracking and analysis of pools, to include pumps, timers, heaters and surfaces as well as cleanings, measurements, chemicals, supplies and repairs. [Scala 3, ScalaFx 20.0.0-R31, H2, Sbt, Git] (github.com/objektwerks/poolmate)
 
 * 2016 | Bottle Rocket, TX | Consultant | Scala Engineer ~ Designed and built Mongodb-Csv-Sftp-Smtp integration app for national fast-food chain. Closed multiple Jira tickets. [Scala 2.11, ReactiveMongo, Spray, Sbt, Git]
 
