@@ -31,9 +31,9 @@ Objektwerks
 
 * 2018 | Starbucks, WA | Consultant | Scala Engineer ~ Designed and built customer order history event-driven pipelines, defined by web service sources, event flows and web service sinks. Built custom Akka-Http directives and Scala-Xml bindings. [Scala 2.12, Azure EventHub, Circe 0.8, Cats 1.0, Cassandra 3.5, Sbt, Git]
 
-* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Homeschool**, featuring tracking of students and courses by grade and analysis of assignments and aggregate course scores. [Scala 3, ScalaFx 20.0.0-R31, H2, Sbt, Git] (github.com/objektwerks/homeschool)
+* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Homeschool**, featuring tracking of students and courses by grade and analysis of assignments and aggregate course scores. [Scala 3, ScalaFx, H2, Sbt, Git] (github.com/objektwerks/homeschool)
 
-* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Poolmate**, featuring tracking and analysis of pools, to include pumps, timers, heaters and surfaces as well as cleanings, measurements, chemicals, supplies and repairs. [Scala 3, ScalaFx 20.0.0-R31, H2, Sbt, Git] (github.com/objektwerks/poolmate)
+* 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Poolmate**, featuring tracking and analysis of pools, to include pumps, timers, heaters and surfaces as well as cleanings, measurements, chemicals, supplies and repairs. [Scala 3, ScalaFx, H2, Sbt, Git] (github.com/objektwerks/poolmate)
 
 * 2016 | Bottle Rocket, TX | Consultant | Scala Engineer ~ Designed and built Mongodb-Csv-Sftp-Smtp integration app for national fast-food chain. Closed multiple Jira tickets. [Scala 2.11, ReactiveMongo, Spray, Sbt, Git]
 
