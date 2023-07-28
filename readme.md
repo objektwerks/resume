@@ -41,7 +41,7 @@ Objektwerks
 
 * 2015 | Adjoy, FL | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Cassandra prototypes. [Scala 2.11, Sbt, Git]
 
-* 2015 | MetiStream, DC | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Cassandra ScalaFX simulator. [Scala 2.11, Sbt, Git]
+* 2015 | MetiStream, DC | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Cassandra ScalaFx simulator. [Scala 2.11, Sbt, Git]
 
 * 2014 | Time Warner, CO | Consultant | Scala Engineer ~ Designed and built Kafka-Spark-Hdfs streaming prototype. [Scala 2.11, Sbt, Git]
 
