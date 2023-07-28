@@ -96,14 +96,14 @@ Javawerks
 
 Skills
 ------
-1. Scala – 9
+1. Scala – 10
 2. Java – 16
 3. Kotlin - 1
 4. Swing – 10
 5. Spring – 8
 6. Hibernate – 8
 7. JPA – 6
-8. Web – 4
+8. Web – 6
 9. Akka – 4
 10. Akka-Http – 4
 11. ScalaFx - 4
