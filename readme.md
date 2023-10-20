@@ -4,6 +4,8 @@ Objektwerks
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
+* 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Swimmer**, featuring tracking and analysis of swimming metrics, calories burned and weight. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Sbt, Git] (github.com/objektwerks/swimmer)
+
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Health Balance**, featuring tracking and analysis of edibles, drinkables, expendables and measurables. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Sbt, Git] (github.com/objektwerks/health.balance)
 
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Ciphers**, featuring analysis of 23 ciphers based on text, number and date input. [Scala 3, ScalaFx, Sbt, Git] (github.com/objektwerks/ciphers)
