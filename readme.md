@@ -139,4 +139,4 @@ Laptop
 
 Environment
 -----------
->See this [Work Environment](https://github.com/objektwerks/scala) section for details.
+>See this [Environment](https://github.com/objektwerks/scala) section for details.
