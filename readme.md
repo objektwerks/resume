@@ -14,7 +14,7 @@ Objektwerks
 
 >***Rebuilt as distributed ScalaJs app.*** [Scala 3, Helidon, Jsoniter, Scalikejdbc, Laminar, Waypoint, W3.CSS, Chart.js, Scaffeine, JoddMail, Postgresql, Snowpack] (github.com/objektwerks/pool.balance.w)
 
->***Rebuilt as distributed app using Swing and ZIO.*** [Scala 3, Swing, FlatLaf, ZIO 2, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
+>***Rebuilt as distributed app using Swing and ZIO.*** [Scala 3, Swing, FlatLaf, ZIO 2, ZIO-Http, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
 
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built open source web app, **Work Order**, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order)
 >***Rebuilt as distributed app using ScalaJs.*** [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Mysql, JoddMail, Sbt, Git] (github.com/objektwerks/work.order.scala)
