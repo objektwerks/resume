@@ -12,7 +12,7 @@ Objektwerks
 
 * 2022 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built personal ***and*** enterprise open source app, **Pool Balance**, featuring tracking and analysis of cleaning, measurement and chemical events. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, Helidon, H2, Postgresql, Jsoniter, JoddMail, Sbt, Git] (github.com/objektwerks/pool.balance and /pool.balance.p)
 
->***Rebuilt as distributed ScalaJs app.*** [Scala 3, JDK Http, Jsoniter, Scalikejdbc, Laminar, Waypoint, W3.CSS, Chart.js, Scaffeine, JoddMail, Postgresql, Snowpack] (github.com/objektwerks/pool.balance.w)
+>***Rebuilt as distributed ScalaJs app.*** [Scala 3, Helidon, Jsoniter, Scalikejdbc, Laminar, Waypoint, W3.CSS, Chart.js, Scaffeine, JoddMail, Postgresql, Snowpack] (github.com/objektwerks/pool.balance.w)
 
 >***Rebuilt as distributed app using Swing and ZIO.*** [Scala 3, Swing, FlatLaf, ZIO 2, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
 
