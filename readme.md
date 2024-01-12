@@ -4,7 +4,7 @@ Objektwerks
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
-* 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built ScalaFx custom open source form layout and controls. [Scala 3, ScalaFx, Sbt, Git] [github.com/objektwerks/scalafx.form]
+* 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built ScalaFx **custom** open source form layout and controls. [Scala 3, Sbt, Git] [github.com/objektwerks/scalafx.form]
 
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source apps, **Swimmer** and **Walker**, featuring tracking and analysis of swimming and walking metrics, calories burned and weight. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Sbt, Git] (github.com/objektwerks/swimmer)(github.com/objektwerks/walker)
 
