@@ -6,7 +6,7 @@ Objektwerks
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **House**, allowing house builders and owners to track house drawings, issues and components. Virtual threads used via Helidon and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/house)
 
-* 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Lawncare**, allowing lawn care providers to track properties, sessions and issues, to include email notification. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Sbt, Git] (github.com/objektwerks/lawncare)
+* 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Lawncare**, allowing lawn care providers to track properties, sessions and issues, to include email notification. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/lawncare)
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built ScalaFx **custom** open source form layout and controls. [Scala 3, Sbt, Git] [github.com/objektwerks/scalafx.form]
 
