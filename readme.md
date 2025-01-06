@@ -143,7 +143,7 @@ US Navy
 
 Laptop
 ------
->Macbook Air, M2, 13”, 24GB. Require similar work laptop with ***Admin rights***.
+>Require Macbook Air, M3, 13”, 24GB laptop with ***admin rights***.
 
 Environment
 -----------
