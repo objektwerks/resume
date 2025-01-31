@@ -4,7 +4,7 @@ Objektwerks
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
-* 2025 | Objektwerks, FL | Scala Engineer ~ Designed and built open source beer brewing simulator, **Brewmeister**, allowing a brewer to build recipes and brew batches using the process of sanitizing, preparing, malting, milling, mashing, lautering, sparging, boiling, cooling, whirlpooling, fermenting, conditioning and kegging. [Scala 3, ScalaFx, ControlsFx, uPickle, Os-Lib, Sbt, Git] (github.com/objektwerks/brewmeister)
+* 2025 | Objektwerks, FL | Scala Engineer ~ Designed and built open source beer brewing simulator, **Brewmeister**, allowing a brewer to build recipes and brew batches using the process of sanitizing, preparing, malting, milling, mashing, lautering, sparging, boiling, cooling, whirlpooling, fermenting, conditioning and kegging. [Scala 3, ScalaFx, ControlsFx, uPickle, Os-Lib, jDeploy, Sbt, Git] (github.com/objektwerks/brewmeister)
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **House**, allowing house builders and owners to track house drawings, issues and components. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/house)
 
