@@ -16,7 +16,7 @@ Objektwerks
 
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Health Balance**, featuring tracking and analysis of edibles, drinkables, expendables and measurables. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/health.balance)
 
-* 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **GCiphers**, featuring analysis of 23 ciphers based on text, number and date input. [Scala 3, ScalaFx, Sbt, Git] (github.com/objektwerks/gciphers)
+* 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **GCiphers**, featuring analysis of 23 ciphers based on text, number and date input. [Scala 3, ScalaFx, jDeploy, Sbt, Git] (github.com/objektwerks/gciphers)
 
 * 2022 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built personal ***and*** enterprise open source app, **Pool Balance**, featuring tracking and analysis of cleaning, measurement and chemical events. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Helidon, Ox, Sbt, Git] (github.com/objektwerks/pool.balance)
 
