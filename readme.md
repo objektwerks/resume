@@ -6,6 +6,8 @@ Objektwerks
 
 * 2025 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source beer brewing simulator, **Brewmeister**, allowing a brewer to build recipes and brew batches using the classic beer brewing process of sanitizing, preparing, malting, milling, mashing, lautering, sparging, boiling, cooling, whirlpooling, fermenting, conditioning and kegging. [Scala 3, ScalaFx, ControlsFx, uPickle, Os-Lib, jDeploy, Sbt, Git] (github.com/objektwerks/brewmeister)
 
+* 2025, 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **GCiphers**, featuring analysis of 23 ciphers based on text, number and date input. [Scala 3, ScalaFx, jDeploy, Sbt, Git] (github.com/objektwerks/gciphers)
+
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **House**, allowing house builders and owners to track house drawings, issues and components. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/house)
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Lawncare**, allowing lawn care providers to track properties, sessions and issues, to include email notification. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/lawncare)
@@ -15,8 +17,6 @@ Objektwerks
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source apps, **Swimmer** and **Walker**, featuring tracking and analysis of swimming and walking metrics, calories burned and weight. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/swimmer)(github.com/objektwerks/walker)
 
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Health Balance**, featuring tracking and analysis of edibles, drinkables, expendables and measurables. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/health.balance)
-
-* 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **GCiphers**, featuring analysis of 23 ciphers based on text, number and date input. [Scala 3, ScalaFx, jDeploy, Sbt, Git] (github.com/objektwerks/gciphers)
 
 * 2022 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built personal ***and*** enterprise open source app, **Pool Balance**, featuring tracking and analysis of cleaning, measurement and chemical events. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Helidon, Ox, Sbt, Git] (github.com/objektwerks/pool.balance)
 
