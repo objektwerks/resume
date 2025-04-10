@@ -6,7 +6,9 @@ Objektwerks
 
 * 2025 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source beer brewing simulator, **Brewmeister**, allowing a brewer to build recipes and brew batches using the classic beer brewing process of sanitizing, preparing, malting, milling, mashing, lautering, sparging, boiling, cooling, whirlpooling, fermenting, conditioning and kegging. [Scala 3, ScalaFx, ControlsFx, uPickle, Os-Lib, jDeploy, Sbt, Git] (github.com/objektwerks/brewmeister)
 
-* 2025, 2024, 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **GCiphers**, featuring analysis of 23 ciphers based on text, number and date input. [Scala 3, ScalaFx, uPickle, Os-Lib, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/gciphers)
+* 2025 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **GCiphers**, featuring analysis of 23 ciphers based on text, number and date input. [Scala 3, ScalaFx, uPickle, Os-Lib, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/gciphers)
+
+* 2025 - 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built personal ***and*** enterprise open source app, **Pool Balance**, featuring tracking and analysis of cleaning, measurement and chemical events. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Helidon, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/pool.balance / pool.balance.p)
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **House**, allowing house builders and owners to track house drawings, issues and components. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/house)
 
@@ -18,8 +20,6 @@ Objektwerks
 
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Health Balance**, featuring tracking and analysis of edibles, drinkables, expendables and measurables. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/health.balance)
 
-* 2022 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built personal ***and*** enterprise open source app, **Pool Balance**, featuring tracking and analysis of cleaning, measurement and chemical events. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Helidon, Ox, Sbt, Git] (github.com/objektwerks/pool.balance)
-
 >***Rebuilt as distributed ScalaJs app.*** [Scala 3, Jsoniter, Scalikejdbc, Laminar, Waypoint, W3.CSS, Chart.js, Scaffeine, JoddMail, Postgresql, Helidon, Ox, Snowpack, Sbt, Git] (github.com/objektwerks/pool.balance.w)
 
 >***Rebuilt as distributed app using Swing and ZIO.*** [Scala 3, Swing, FlatLaf, ZIO 2, ZIO-Http, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
@@ -27,9 +27,9 @@ Objektwerks
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built open source web app, **Work Order**, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order)
 >***Rebuilt as distributed app using ScalaJs.*** [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Mysql, JoddMail, Sbt, Git] (github.com/objektwerks/work.order.scala)
 
-* 2020 - 2021 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Health Charts**, sourced by csv-txt files, targeting 11 health charts. [Scala 3, Swing, JFreeCharts, Sbt, Git] (github.com/objektwerks/healthcharts)
+* 2021 - 2020 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Health Charts**, sourced by csv-txt files, targeting 11 health charts. [Scala 3, Swing, JFreeCharts, Sbt, Git] (github.com/objektwerks/healthcharts)
 
-* 2020 - 2021 | Baptist Health South Florida, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.12, Spark 3, Akka-Http 10, uPickle 1.2, Sbt, Git]
+* 2021 - 2020 | Baptist Health South Florida, FL | Consultant | Scala Engineer ~ Designed and built Spark Job with embedded Akka-Http rest server that processes diet data requests via a Spark cluster. SSL-enabled Akka-Http rest app. [Scala 2.12, Spark 3, Akka-Http 10, uPickle 1.2, Sbt, Git]
 
 * 2020 | FormsLogic, IL | Consultant | Scala Engineer ~ Built new web service calls and enhanced pdf reports for a form-driven workflow app. [Scala 2.11, Play 2, Postgresql 9, Anorm, Jaspersoft Studio, Sbt, Git]
 
@@ -64,11 +64,11 @@ Javawerks
 
 * 2011 | Catalina Marketing, FL | Consultant | Java Engineer ~ Co-architected distributed hierarchical customer ID analytics solution using Pentaho and JAX-WS web services, targeting multiple enterprise data sources and sinks. Designed and built Hadoop prototype. [Java 6, Tomcat, Oracle, Spring, JPA, Hibernate, Axis2, Jibix, Maven, Jenkins, SVN]
 
-* 2010 - 2011 | Disney World, FL | Consultant | Java Engineer ~ Implemented enhancements to J2EE room availability and inventory apps. Designed and built GWT inventory analysis client. [Java 5, JBoss, Oracle, Spring, JPA, Hibernate, RichFaces, Struts, Maven, Clearcase]
+* 2011 - 2010 | Disney World, FL | Consultant | Java Engineer ~ Implemented enhancements to J2EE room availability and inventory apps. Designed and built GWT inventory analysis client. [Java 5, JBoss, Oracle, Spring, JPA, Hibernate, RichFaces, Struts, Maven, Clearcase]
 
-* 2009 - 2010 | NDR, FL | Consultant | Java Engineer ~ Designed and built Swing-Spring DI Historical Stock Screener client, composed of financial criteria, interactive models, charts and tables, Spring-Hibernate generic entity manager, JPA entities and Spring HttpInvoker services. Designed and built daily Russell Index service with Spring Batch, Spring-Hibernate generic entity manager, JPA entities and JMX attributes. [Java 6, Tomcat, SwingX, JFreeChart, POI, Ehcache, Maven, Nexus, Hudson, SVN]
+* 2010 - 2009 | NDR, FL | Consultant | Java Engineer ~ Designed and built Swing-Spring DI Historical Stock Screener client, composed of financial criteria, interactive models, charts and tables, Spring-Hibernate generic entity manager, JPA entities and Spring HttpInvoker services. Designed and built daily Russell Index service with Spring Batch, Spring-Hibernate generic entity manager, JPA entities and JMX attributes. [Java 6, Tomcat, SwingX, JFreeChart, POI, Ehcache, Maven, Nexus, Hudson, SVN]
 
-* 2008 - 2009 | IHG, GA | Consultant | Java Engineer ~ Designed and built Spring-Hibernate generic entity manager, JPA/JAXB entities, MDPs, generic JAXB marshaller, pooled XSD validator/XSLT transformer, POX/JAX-WS/JMS services, JMX beans/aspects, JMS queue transferer and URI archiver. Designed and built ServiceMix, OSGi/SpringDM and Spring Integration prototypes. [Java 6, Groovy, Resin, Oracle, MQ, ActiveMQ, CXF, Quartz, Maven, Hudson, SVN, Scrum]
+* 2009 - 2008 | IHG, GA | Consultant | Java Engineer ~ Designed and built Spring-Hibernate generic entity manager, JPA/JAXB entities, MDPs, generic JAXB marshaller, pooled XSD validator/XSLT transformer, POX/JAX-WS/JMS services, JMX beans/aspects, JMS queue transferer and URI archiver. Designed and built ServiceMix, OSGi/SpringDM and Spring Integration prototypes. [Java 6, Groovy, Resin, Oracle, MQ, ActiveMQ, CXF, Quartz, Maven, Hudson, SVN, Scrum]
 
 * 2008 | Disney World, FL | Consultant | Java Engineer ~ Designed and built Spring-JPA generic entity manager and JPA entities for J2EE reservation app. Designed and built inventory adjustment components, JAX-WS services, MDPs, JMX beans, JIBIX bindings, AOP retry strategies and auditors. [Java 5, JBoss, Oracle, Hibernate, Drools, MQ, CXF, Quartz, RichFaces, Maven, Scrum]
 
@@ -82,7 +82,7 @@ Javawerks
 
 * 2005 | State Government, WA | Consultant | Java Engineer ~ Team-designed and -built J2EE criminal record web services. Built generic entity manager, entities and Swing-Hibernate query tool. [Java 5, JBoss, DB2, Axis, XStream, Maven, Perforce, CC, Scrum]
 
-* 2004 - 2005 | MarketGrader, FL | Startup | Java Engineer ~ Designed and built J2EE stock report app, Swing client, Java2D Swing stock component and open source Quartz DailyCalendar (see contribution @ tinyurl.com/y7frm74e). [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP]
+* 2005 - 2004 | MarketGrader, FL | Startup | Java Engineer ~ Designed and built J2EE stock report app, Swing client, Java2D Swing stock component and open source Quartz DailyCalendar (see contribution @ tinyurl.com/y7frm74e). [Java 5, JBoss, MSSQL, DynamicPdf, S&P Xpressfeed, Ant, CVS, XP]
 
 * 2004 | Fedex, FL | Consultant | Java Engineer ~ Designed and built JAXM web service to interoperate with IBM CICS, MQ and DB2. [Java, WebLogic, XmlBeans, Ant, CVS]
 
@@ -90,19 +90,19 @@ Javawerks
 
 * 2003 - 2004 | Nielsen Media, FL | Employee | Java Engineer ~ Designed and built Swing TV programming applet, workflow components, auditing aspects and ILOG/JRules prototypes. [Java, Weblogic, Oracle, Ant, CVS, XP]
 
-* 2002 - 2003 | US Navy, VA | Consultant | Java Engineer ~ Designed and built J2EE web app, allowing US Navy Seabees to manage global container logistics and integrate with US Navy accounting via POX web service. [Java, Jetty, MySql, Struts, Castor, Ant, VSS]
+* 2003 - 2002 | US Navy, VA | Consultant | Java Engineer ~ Designed and built J2EE web app, allowing US Navy Seabees to manage global container logistics and integrate with US Navy accounting via POX web service. [Java, Jetty, MySql, Struts, Castor, Ant, VSS]
 
-* 2001 - 2002 | OTG, FL | Startup | Java Engineer ~ Team-designed and -built EAI product, composed of Jini services that execute integration components via JavaSpace messaging, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP] 
+* 2002 - 2001 | OTG, FL | Startup | Java Engineer ~ Team-designed and -built EAI product, composed of Jini services that execute integration components via JavaSpace messaging, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP] 
 
-* 2000 - 2001 | BetweenMarkets, TX | Startup | Java Engineer ~ Team-designed and -built eMarketplace product, composed of Jini services that execute SOAP web services, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP]
+* 2001 - 2000 | BetweenMarkets, TX | Startup | Java Engineer ~ Team-designed and -built eMarketplace product, composed of Jini services that execute SOAP web services, lifecycle-managed by Swing client and Jini services. [Java, Tomcat, Ant, CVS, XP]
 
-* 1999 - 2000 | Ariba, FL | Startup | Java Engineer ~ Team-designed and -built Ariba UDDI implementation in cooperation with IBM and Microsoft. Implemented Tradex product enhancements. [Java, Weblogic, Oracle, Ant, CVS]
+* 2000 - 1999 | Ariba, FL | Startup | Java Engineer ~ Team-designed and -built Ariba UDDI implementation in cooperation with IBM and Microsoft. Implemented Tradex product enhancements. [Java, Weblogic, Oracle, Ant, CVS]
 
-* 1997 - 1999 | Identitech, FL | Consultant | Java Engineer ~ Designed and built Swing property sheet component, common property editors and RMI document management apps. [Java, MySql, CVS]
+* 1999 - 1997 | Identitech, FL | Consultant | Java Engineer ~ Designed and built Swing property sheet component, common property editors and RMI document management apps. [Java, MySql, CVS]
 
 * 1997 | Kinetoscope, FL | Startup | Java Engineer ~ Team-designed and -built market analysis tool, composed of AWT client, RMI server and ObjectStore database. [Java]
 
-* 1993 - 1997 | FL | Consultant ~ C/C++, Visual C++, Visual Basic, Access, Delphi, PowerBuilder, SQL Server, Oracle
+* 1997 - 1993 | FL | Consultant ~ C/C++, Visual C++, Visual Basic, Access, Delphi, PowerBuilder, SQL Server, Oracle
 
 Skills
 ------
