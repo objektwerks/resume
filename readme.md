@@ -10,6 +10,10 @@ Objektwerks
 
 * 2025 - 2022 | Objektwerks, FL | Scala Engineer ~ Designed, built and published personal ***and*** enterprise open source app, **Pool Balance**, featuring tracking and analysis of cleaning, measurement and chemical events. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Helidon, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/pool.balance / pool.balance.p)
 
+>***Rebuilt as distributed ScalaJs app.*** [Scala 3, Jsoniter, Scalikejdbc, Laminar, Waypoint, W3.CSS, Chart.js, Scaffeine, JoddMail, Postgresql, Helidon, Ox, Snowpack, Sbt, Git] (github.com/objektwerks/pool.balance.w)
+
+>***Rebuilt as distributed app using Swing and ZIO.*** [Scala 3, Swing, FlatLaf, ZIO 2, ZIO-Http, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
+
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **House**, allowing house builders and owners to track house drawings, issues and components. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/house)
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Lawncare**, allowing lawn care providers to track properties, sessions and issues, to include email notification. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/lawncare)
@@ -19,10 +23,6 @@ Objektwerks
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source apps, **Swimmer** and **Walker**, featuring tracking and analysis of swimming and walking metrics, calories burned and weight. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/swimmer)(github.com/objektwerks/walker)
 
 * 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Health Balance**, featuring tracking and analysis of edibles, drinkables, expendables and measurables. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/health.balance)
-
->***Rebuilt as distributed ScalaJs app.*** [Scala 3, Jsoniter, Scalikejdbc, Laminar, Waypoint, W3.CSS, Chart.js, Scaffeine, JoddMail, Postgresql, Helidon, Ox, Snowpack, Sbt, Git] (github.com/objektwerks/pool.balance.w)
-
->***Rebuilt as distributed app using Swing and ZIO.*** [Scala 3, Swing, FlatLaf, ZIO 2, ZIO-Http, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
 
 * 2022 | Objektwerks, FL | Scala Engineer ~ Designed and built open source web app, **Work Order**, which links homeowners and service providers via work orders and email notification. [Typescript, Html, Css, W3C.css, Express, Nodemailer, Mysql, Nodejs, Git] (github.com/objektwerks/work.order)
 >***Rebuilt as distributed app using ScalaJs.*** [Scala 3, ScalaJs, Laminar, Waypoint, Cask, uPickle, Scaffeine, ScalikeJdbc, Mysql, JoddMail, Sbt, Git] (github.com/objektwerks/work.order.scala)
