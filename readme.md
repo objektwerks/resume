@@ -88,7 +88,7 @@ Javawerks
 
 * 2004 | PWC, FL | Consultant | Java Engineer ~ Designed and built J2EE web app, allowing for development and lifecycle management of surveys, polls and tests. [Java, WebLogic, Oracle, Struts, Ant, CVS]
 
-* 2003 - 2004 | Nielsen Media, FL | Employee | Java Engineer ~ Designed and built Swing TV programming applet, workflow components, auditing aspects and ILOG/JRules prototypes. [Java, Weblogic, Oracle, Ant, CVS, XP]
+* 2004 - 2003 | Nielsen Media, FL | Employee | Java Engineer ~ Designed and built Swing TV programming applet, workflow components, auditing aspects and ILOG/JRules prototypes. [Java, Weblogic, Oracle, Ant, CVS, XP]
 
 * 2003 - 2002 | US Navy, VA | Consultant | Java Engineer ~ Designed and built J2EE web app, allowing US Navy Seabees to manage global container logistics and integrate with US Navy accounting via POX web service. [Java, Jetty, MySql, Struts, Castor, Ant, VSS]
 
