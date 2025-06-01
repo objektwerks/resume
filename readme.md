@@ -116,9 +116,9 @@ Skills
 6. Hibernate – 8
 7. JPA – 6
 8. Web – 6
-9. Akka – 4
-10. Akka-Http – 4
-11. ScalaFx - 4
+9. ScalaFx - 6
+10. Akka – 4
+11. Akka-Http – 4
 12. ScalaJs - 2
 13. Spark – 2
 
