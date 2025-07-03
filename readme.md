@@ -60,7 +60,7 @@ Javawerks
 
 1997 – 2012 | FL | Consultant | Java Engineer ~ Designed and built distributed, web and desktop Java apps and components.
 
-* 2011 | Mad Mobile, FL | Startup | Java Engineer ~ Designed and built single page web app and NodeJs-websocket server, allowing for graphical selection of Html5 elements and construction of Css3 selectors, persisted in MongoDB as named queries, executable by remote mobile web clients for dynamic UI model-based rendering. Rebuilt with Java, JavaFX and Spring Rest due to browser constraints and JS performance and memory leak issues. [Java 7, JPA, Hibernate, H2, jQuery, Jsdom, Socket.io, Maven, Git]
+* 2011 | Mad Mobile, FL | Startup | Java Engineer ~ Designed and built single page web app and NodeJs-websocket server, allowing for graphical selection of Html5 elements and construction of Css3 selectors, persisted in MongoDB as named queries, executable by remote mobile web clients for dynamic UI model-based rendering. Rebuilt with Java, JavaFx and Spring Rest due to browser constraints and JS performance and memory leak issues. [Java 7, JPA, Hibernate, H2, jQuery, Jsdom, Socket.io, Maven, Git]
 
 * 2011 | Catalina Marketing, FL | Consultant | Java Engineer ~ Co-architected distributed hierarchical customer ID analytics solution using Pentaho and JAX-WS web services, targeting multiple enterprise data sources and sinks. Designed and built Hadoop prototype. [Java 6, Tomcat, Oracle, Spring, JPA, Hibernate, Axis2, Jibix, Maven, Jenkins, SVN]
 
