@@ -16,7 +16,7 @@ Objektwerks
 
 >***Rebuilt as distributed app using Swing and ZIO.*** [Scala 3, Swing, FlatLaf, ZIO 2, ZIO-Http, ZIO-Quill, ZIO-Json, Postgresql] (github.com/objektwerks/pool.balance.z)
 
-* 2025 - 2017 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Homeschooler**, featuring tracking of students and courses by grade and analysis of assignments and aggregate course scores. [Scala 3, ScalaFx, Slick, H2, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/homeschooler)
+* 2025 - 2017 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **Homeschooler**, featuring tracking of students and courses by grade and analysis of assignments and aggregate course scores. [Scala 3, ScalaFx, Slick, H2, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/homeschooler)
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **House**, allowing house builders and owners to track house drawings, issues and components. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/house)
 
