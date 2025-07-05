@@ -10,7 +10,7 @@ Objektwerks
 
 * 2025 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **GCiphers**, featuring analysis of 23 ciphers based on text, number and date input. Built Scala Native command line version. [Scala 3, ScalaFx, uPickle, Os-Lib, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/gciphers / gciphers.native.cli)
 
-* 2025 - 2022 | Objektwerks, FL | Scala Engineer ~ Designed, built and published personal ***and*** enterprise open source app, **Pool Balance**, featuring tracking and analysis of cleaning, measurement and chemical events. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Helidon, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/pool.balance / pool.balance.p)
+* 2025 - 2022 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **Pool Balance**, featuring tracking and analysis of cleaning, measurement and chemical events, to include enterprise edition. [Scala 3, ScalaFx, Scaffeine, ScalikeJdbc, H2, Postgresql, Jsoniter, JoddMail, Helidon, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/pool.balance / pool.balance.p)
 
 >***Rebuilt as distributed ScalaJs app.*** [Scala 3, Jsoniter, Scalikejdbc, Laminar, Waypoint, W3.CSS, Chart.js, Scaffeine, JoddMail, Postgresql, Helidon, Ox, Snowpack, Sbt, Git] (github.com/objektwerks/pool.balance.w)
 
