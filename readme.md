@@ -3,7 +3,9 @@ Objektwerks
 >**Email** ~ objektwerks@runbox.com
 >**Github** ~ https://github.com/objektwerks
 
-Summary - I've been a software developer for 30+ years, having worked with Microsoft technologies, Java, Scala and more. During the past 11 years my focus has been on Scala, with last 5 years focused on designing, building and optionally publishing open source software.
+Summary
+-------
+>I've been a software developer for 30+ years, having worked with Microsoft technologies, Java, Scala and more. During the past 11 years my focus has been on Scala, with last 5 years focused on designing, building >and optionally publishing open source software.
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
