@@ -18,7 +18,7 @@ Objektwerks
 
 * 2025 - 2017 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **Homeschooler**, featuring tracking of students and courses by grade and analysis of assignments and aggregate course scores. [Scala 3, ScalaFx, Slick, H2, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/homeschooler)
 
-* 2025 - 2017 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **Poolmate**, featuring tracking and analysis of pools, to include pumps, timers, heaters and surfaces as well as cleanings, measurements, chemicals, supplies and repairs. [Scala 3, ScalaFx, Slick, H2, Sbt, Git] (github.com/objektwerks/poolmate)
+* 2025 - 2017 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **Poolmate**, featuring tracking and analysis of pools, to include pumps, timers, heaters and surfaces as well as cleanings, measurements, chemicals, supplies and repairs. [Scala 3, ScalaFx, Slick, H2, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/poolmate)
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **House**, allowing house builders and owners to track house drawings, issues and components. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/house)
 
