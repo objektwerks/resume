@@ -1,7 +1,7 @@
 Objektwerks
 -----------
->**Email** ~ objektwerks@runbox.com
->**Github** ~ https://github.com/objektwerks
+* **Email** ~ objektwerks@runbox.com
+* **Github** ~ https://github.com/objektwerks
 
 Summary
 -------
