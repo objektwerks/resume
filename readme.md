@@ -5,7 +5,7 @@ Objektwerks
 
 Summary
 -------
->I've been a software developer for 30+ years, having worked with Microsoft technologies, Java, Scala and more. During the past 11 years my focus has been on Scala, with last 5 years focused on designing, building >and optionally publishing open source software.
+>I've been a software developer for 30+ years, having worked with Microsoft technologies, Java, Scala and more. During the past 11 years my focus has been on Scala, with the last 5 years defined by designing, building >and *optionally* publishing open source software.
 
 Projects
 --------
