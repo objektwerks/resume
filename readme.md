@@ -1,6 +1,7 @@
 Objektwerks
 -----------
 >**Email** ~ objektwerks@runbox.com
+>**Github** ~ https://github.com/objektwerks
 
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
