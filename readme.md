@@ -7,8 +7,8 @@ Summary
 -------
 >I've been a software developer for 30+ years, having worked with Visual Basic/C++, Java, Scala and more. During the past 11 years, my focus has been on Scala, to include designing, building and publishing open source software.
 
-Projects
---------
+Objektwerks
+-----------
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
 * 2025 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **Survey**, allowing for the creation and management of surveys, participants, questions and answers. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/survey)
