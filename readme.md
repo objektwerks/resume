@@ -5,7 +5,7 @@ Objektwerks
 
 Summary
 -------
->I've been a software developer for 30+ years, having worked with Visual Basic/C++, Java, Scala and more. During the past 11 years, my focus has been on Scala, to include designing, building and publishing open source software.
+>I've been a software developer for 30+ years, having worked with C++, Java, Scala, Akka, Spark and more. During the past 11 years, my focus has been on Scala, to include designing, building and publishing open source software.
 
 Objektwerks
 -----------
