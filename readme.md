@@ -27,7 +27,7 @@ Objektwerks
 
 * 2025 - 2017 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **PoolMate**, featuring tracking and analysis of pools, to include pumps, timers, heaters and surfaces as well as cleanings, measurements, chemicals, supplies and repairs. [Scala 3, ScalaFx, Slick, H2, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/poolmate)
 
-* 2025 - 2020 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **Healthcharts**, sourced by **csv** text files, targeting 11 health charts: blood pressure, calories-weight, glucose-med, glucose, med, pulse-oxygen, pulse, respiration, temperature, vitals and weight. [Scala 3, Swing, Flatlaf, MigLayout, JFreeChart, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/healthcharts)
+* 2025 - 2020 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **Health Charts**, sourced by **csv** text files, targeting **11** charts: blood pressure, calories-weight, glucose-med, glucose, med, pulse-oxygen, pulse, respiration, temperature, vitals and weight. [Scala 3, Swing, Flatlaf, MigLayout, JFreeChart, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/healthcharts)
 
 * 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **House**, allowing house builders and owners to track house drawings, issues and components. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/house)
 
