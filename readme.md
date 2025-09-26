@@ -11,7 +11,7 @@ Objektwerks
 -----------
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
 
-* 2025 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source app, **Swimmer**, featuring tracking and analysis of swimming metrics. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/swimmer)(github.com/objektwerks/swimmer.p)
+* 2025 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source enterprise and personal app, **Swimmer**, featuring tracking and analysis of swimming metrics. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/swimmer)(github.com/objektwerks/swimmer.p)
 
 * 2025 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **Survey**, allowing for the creation and management of surveys, participants, questions and answers. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/survey)
 
