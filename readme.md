@@ -152,7 +152,7 @@ US Navy
 
 Laptop
 ------
->Require Macbook Air, M4, 15”, 24GB, 512GB SSD, laptop with ***admin rights***.
+>Require MacBook Air, M4, 15”, 24GB, 512GB SSD, laptop with ***admin rights***.
 
 Environment
 -----------
