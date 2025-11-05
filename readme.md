@@ -9,7 +9,7 @@ Summary
 
 Objective
 ---------
->Scala 3 work.
+>***Scala 3*** work.
 
 Objektwerks
 -----------
