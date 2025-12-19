@@ -37,7 +37,7 @@ Objektwerks
 
 * 2025 | Objektwerks, FL | Scala Engineer ~ Designed and built open source Http service, **Survey**, allowing for the creation and management of surveys, participants, questions and answers. Virtual threads used via Tapir and Ox. [Scala 3, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Tapir, Ox, Sbt, Git] (github.com/objektwerks/survey)
 
-* 2025 - 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Lawncare**, allowing lawn care providers to track properties, sessions and issues, to include email notification. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/lawncare)
+* 2025 - 2024 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Lawncare**, allowing lawn care providers to track properties, sessions and issues, to include email notification. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/lawncare)(https://github.com/objektwerks/lawncare.p)
 
 * 2025 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed and built open source app, **Health Balance**, featuring tracking and analysis of edibles, drinkables, expendables and measurables. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/health.balance)
 
