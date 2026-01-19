@@ -1,6 +1,6 @@
 Objektwerks
 -----------
-* **Email** ~ objektwerks@runbox.com
+>**Email** ~ objektwerks@runbox.com
 
 Summary
 -------
