@@ -118,7 +118,7 @@ Javawerks
 
 Skills
 ------
-1. Scala – 11
+1. Scala – 12
 2. ScalaFx - 10
 3. Java – 16
 4. Kotlin - 1
