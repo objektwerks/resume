@@ -6,10 +6,6 @@ Summary
 -------
 >I've been building software for 30+ years, having worked with C++, Java, Scala, Kotlin, Python, Typescript, Rust and more. During the past 12 years, my focus has been on Scala, to include designing, building and publishing open source software.
 
-Objective
----------
->***Scala 3*** work.
-
 Objektwerks
 -----------
 2013 – Present | FL | Consultant | Scala Engineer ~ Design and build Scala distributed, web and desktop apps.
@@ -152,11 +148,3 @@ Degree
 US Navy
 -------
 >Intelligence | Alaska, Diego Garcia, Guam, Japan, D.C.
-
-Laptop
-------
->Require MacBook Air, M4, 15”, 24GB, 512GB SSD, laptop with ***admin rights***.
-
-Environment
------------
->See this [Environment](https://github.com/objektwerks/scala) section for details.
