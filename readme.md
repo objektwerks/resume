@@ -12,7 +12,7 @@ Objektwerks
 
 * 2025 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source beer brewing simulator, **Brewmeister**, allowing a brewer to build recipes and brew batches using the classic beer brewing process of sanitizing, preparing, malting, milling, mashing, lautering, sparging, boiling, cooling, whirlpooling, fermenting, conditioning and kegging. [Scala 3, ScalaFx, ControlsFx, uPickle, Os-Lib, jDeploy, Sbt, Git] (github.com/objektwerks/brewmeister)
 
-* 2025 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source enterprise and personal app, **Swimmer**, featuring tracking and analysis of swimming metrics. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/swimmer)(github.com/objektwerks/swimmer.p)
+* 2025 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source enterprise and personal app, **Swimmer**, featuring tracking and analysis of swimming metrics. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, jDeploy, Sbt, Git] (github.com/objektwerks/swimmer)(github.com/objektwerks/swimmer.p)
 
 * 2025 - 2023 | Objektwerks, FL | Scala Engineer ~ Designed, built and published open source enterprise app and personal app, **Walker**, featuring tracking and analysis of walking metrics. Virtual threads used via Helidon and Ox. [Scala 3, ScalaFx, Jsoniter, Scaffeine, JoddMail, ScalikeJdbc, PostgreSql, Helidon, Ox, Sbt, Git] (github.com/objektwerks/walker(github.com/objektwerks/walker.p)
 
